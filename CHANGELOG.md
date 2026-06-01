@@ -20,6 +20,26 @@ For each cohort:
 
 ---
 
+## v0.5 — Community scaffolding
+
+- Added [`COMMUNITY.md`](./COMMUNITY.md): facilitator office hours
+  cadence (monthly for the first three months after launch, quarterly
+  thereafter), standing agenda, WhatsApp groups (core + regional
+  spinoffs), and the lightest-path onboarding for new facilitators.
+  Three URLs are placeholders — office hours signup, WhatsApp invite,
+  contact email — and need to be replaced before public sharing.
+- Added GitHub issue templates at `.github/ISSUE_TEMPLATE/`:
+  - `cohort-entry.yml` — structured form for logging a cohort,
+    archetypes picked, what shipped, and lessons. No git required.
+  - `add-an-example.md` — propose a shipped artifact for `examples/`.
+  - `new-archetype-proposal.md` — high-bar proposal; requires a
+    shipped v1 as evidence.
+  - `disagree-or-clarify.md` — push back on the playbook.
+  - `config.yml` disables blank issues and surfaces the community
+    options.
+- README and CONTRIBUTING updated to surface the three doors in:
+  open an issue, open a PR, or show up to office hours.
+
 ## v0.4 — Open for contribution
 
 - Added [`CONTRIBUTING.md`](./CONTRIBUTING.md): the five kinds of

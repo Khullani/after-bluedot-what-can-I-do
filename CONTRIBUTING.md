@@ -13,6 +13,20 @@ If you're an alum who shipped a v1 of one of the archetypes, your example
 is more useful to the next cohort than anything I can write from the
 outside. Add it.
 
+## Where to start
+
+Three doors in, depending on how formal you want to be:
+
+- **Open an issue** at [`/issues/new/choose`](../../issues/new/choose) —
+  pick from cohort-entry, new-example, new-archetype-proposal, or
+  disagree-or-clarify. The cohort-entry template is a form; no git
+  required.
+- **Open a PR** directly if your change is concrete (a new case study,
+  a template improvement, a typo fix). See the [PR template](./.github/PULL_REQUEST_TEMPLATE.md).
+- **Show up to office hours** ([`COMMUNITY.md`](./COMMUNITY.md)) — for
+  high-friction contributions (new archetypes, appendices), the call
+  is the fastest way to pressure-test before you write.
+
 ## The five kinds of contribution, in roughly descending value
 
 **1. Add your shipped artifact as a live example.** Highest-value
@@ -106,9 +120,17 @@ to the "Facilitators using this playbook" list in
 course you facilitated. Optional: a link to your bio or your cohort's
 public summary.
 
-The credits list is also how I find each other's work. The more of us
-on it, the more the menu evolves from the experience of facilitators
-rather than from any one person's prior cohorts.
+The cohort-entry issue template has a checkbox for this — easiest path.
+
+## Staying in touch
+
+See [`COMMUNITY.md`](./COMMUNITY.md) for:
+
+- The facilitator office hours cadence (monthly for the first three
+  months after launch, quarterly thereafter).
+- The WhatsApp groups — core facilitator channel plus optional regional
+  spinoffs.
+- The lightest path in as a new facilitator.
 
 ## Disagreements
 

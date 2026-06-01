@@ -78,6 +78,18 @@ isn't — see [`CONTRIBUTING.md`](./CONTRIBUTING.md). Facilitator
 contributions especially: each cohort you've run is evidence the next
 facilitator gets to use.
 
+The fastest way in:
+
+- **Open an issue** — pick the right template (cohort entry, new
+  example, new archetype, or disagreement) at
+  [`/issues/new/choose`](../../issues/new/choose).
+- **Join the next office hours call** — monthly for the first three
+  months after launch, quarterly after that. See
+  [`COMMUNITY.md`](./COMMUNITY.md) for the schedule.
+- **Get on the WhatsApp** — faster-than-email channel for facilitators.
+  Request access in your cohort-entry issue or via email
+  ([`COMMUNITY.md`](./COMMUNITY.md)).
+
 ## Facilitators using this playbook
 
 If you're using this playbook with a cohort, add yourself here via PR
