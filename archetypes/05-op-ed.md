@@ -62,10 +62,18 @@ accepted — published.
 
 ## Example in the wild
 
-External examples worth studying: Lawfare's AI policy section, Tech
-Policy Press, the op-ed pages of state-level papers. Notice how short
-and concrete the placed pieces are compared to similar arguments on
-Substack.
+[`examples/05-op-ed.md`](../examples/05-op-ed.md) —
+**"AI legislation must focus on biggest risks"** in *Crain's Chicago
+Business* (Commentary section, March 30, 2026), arguing that Illinois
+should pass HB 4705 / SB 3261 because surgically targeting only the
+largest AI companies best balances public safety with innovation. Aimed
+at Illinois state legislators in Springfield. Byline: "Khullani
+Abdullahi is CEO Techne AI in Chicago."
+
+Other external examples worth studying: Lawfare's AI policy section,
+Tech Policy Press, the op-ed pages of state-level papers. Notice how
+short and concrete the placed pieces are compared to similar arguments
+on Substack.
 
 ## How I'd start if I were you (week 1)
 

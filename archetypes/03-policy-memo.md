@@ -1,6 +1,25 @@
 # Archetype 3: Policy Memo for a Specific Stakeholder
 
-> One named decision-maker. One decision they're about to make. Two pages.
+> One named decision-maker. One decision they're about to make. Two pages —
+> or, in the staff-analysis variant, five.
+
+## Two variants
+
+This archetype comes in two shapes. Pick the one that matches your audience.
+
+- **Recommendation memo** (2 pages, [`one-pager.md`](../templates/one-pager.md)).
+  The default. One decision-maker, one decision, recommendation up front.
+- **Staff bill analysis** (5–8 pages,
+  [`staff-bill-analysis.md`](../templates/staff-bill-analysis.md)). Same
+  archetype, different audience: committee staff and members who need to
+  read a complex bill section by section before they can act on a
+  recommendation. The template ends in a recommendation section, so it
+  does the advocacy work the recommendation memo does — just with the
+  structural walk-through ahead of it.
+
+When in doubt, write the 2-page memo. The staff analysis is for cases
+where the 2-page memo would leave too many open questions about what's
+actually in the bill.
 
 ## Why this archetype exists
 
@@ -65,9 +84,17 @@ person who will hand it to them) and gotten an acknowledgement.
 
 ## Example in the wild
 
-I don't have a public example of mine — memos are usually private. The
-shape to imitate is the kind of one-pager congressional staff actually
-read: tight, recommendation up front, opinion declared rather than hedged.
+[`examples/03-policy-memo.md`](../examples/03-policy-memo.md) — a
+5-page **staff bill analysis** of Illinois HB5760 (Commission on AI and
+Workforce Transition Act), delivered to Rep. Du Buclet's office, with
+follow-up meetings in flight. The PDF is committed to the repo so the
+artifact is durable.
+
+The shape to imitate for the 2-page recommendation memo variant is the
+kind of one-pager congressional staff actually read: tight,
+recommendation up front, opinion declared rather than hedged. I don't
+have a public example of *that* shape yet — recommendation memos are
+usually private.
 
 ## How I'd start if I were you (week 1)
 
@@ -95,7 +122,10 @@ read: tight, recommendation up front, opinion declared rather than hedged.
 
 ## Templates
 
-- [`templates/one-pager.md`](../templates/one-pager.md) — the memo
-  skeleton.
+- [`templates/one-pager.md`](../templates/one-pager.md) — the
+  recommendation memo skeleton (2 pages).
+- [`templates/staff-bill-analysis.md`](../templates/staff-bill-analysis.md)
+  — the staff bill analysis variant (5–8 pages, includes a
+  recommendation section).
 - [`templates/project-brief.md`](../templates/project-brief.md) — to
-  scope before you write.
+  scope before you write either.

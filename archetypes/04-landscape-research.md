@@ -61,7 +61,14 @@ unprompted.
 
 ## Example in the wild
 
-I don't have one of my own public yet. Good external models: AI Now
+[`examples/04-landscape-doc.md`](../examples/04-landscape-doc.md) —
+the inaugural white paper from the AI Safety Chicago event series
+(co-hosted by Techne AI and BlueDot Impact). Pressure-tested by ~120
+practitioners from Chicago universities and regulatory/legal employers
+at the convening, then drafted into a public landscape doc. This is the
+**#7 (convening) → #4 (landscape doc) combination** in action.
+
+Good external models for solo desk-research landscape docs: AI Now
 Institute's annual reports, GovAI's policy briefs, the AI Index. Notice
 what they all do: tight scope, clear methodology, opinion declared.
 

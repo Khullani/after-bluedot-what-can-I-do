@@ -63,12 +63,22 @@ number.
 
 ## Example in the wild
 
-NIST AI Risk Management Framework drafts received thousands of comments;
-the ones from named individuals with specific recommendations are
-visible in the final framework's framing. The EU AI Act consultation
-process similarly. Look at the actual filed comments on regulations.gov
-for any AI-adjacent docket — the texture will be clearer than any
-description.
+[`examples/06-public-comment.md`](../examples/06-public-comment.md) —
+written testimony hosted at
+[strategy.techne.ai/illinois-AI-laws/testimony.html](https://strategy.techne.ai/illinois-AI-laws/testimony.html),
+co-located on the same domain as the
+[illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) tracker.
+This is the **#1 (tracker) → #6 (public comment) combination** named in
+[`PLAYBOOK.md`](../PLAYBOOK.md#combinations-that-work) — the tracker is
+the substrate, the testimony uses it to make a specific argument with
+one-click citations.
+
+Other external examples: NIST AI Risk Management Framework drafts
+received thousands of comments; the ones from named individuals with
+specific recommendations are visible in the final framework's framing.
+The EU AI Act consultation process similarly. Look at the actual filed
+comments on regulations.gov for any AI-adjacent docket — the texture
+will be clearer than any description.
 
 ## How I'd start if I were you (week 1)
 

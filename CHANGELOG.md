@@ -16,11 +16,24 @@ For each cohort:
 
 ---
 
+## v0.2 — Examples populated
+
+- Added live examples for six of the eight archetypes (see
+  [`examples/`](./examples/)):
+  - **#3** — HB5760 staff bill analysis (delivered to Rep. Du Buclet's
+    office; follow-up meetings in flight). PDF committed.
+  - **#4** — AI Safety Chicago white paper (draft).
+  - **#5** — Crain's Chicago Business op-ed, March 30, 2026.
+  - **#6** — Written testimony at strategy.techne.ai/illinois-AI-laws/testimony.html.
+  - **#7** — AI Safety Chicago convening series (with BlueDot Impact).
+- Added the **staff bill analysis** variant to archetype #3 with its
+  own template ([`templates/staff-bill-analysis.md`](./templates/staff-bill-analysis.md)).
+- Archetype files now point to the examples in their "Example in the
+  wild" sections.
+
 ## v0.1 — Initial release
 
 - Initial publication of the playbook, eight archetypes, and templates.
-- No cohort has used this version yet — it goes to the next cohort I
-  facilitate.
 
 ---
 

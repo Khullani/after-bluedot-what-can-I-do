@@ -38,10 +38,17 @@ which one fits which person.
 
 ## Live examples
 
-Two of these archetypes already exist as repos you can fork or steal from:
+Real artifacts for six of the eight archetypes — see [`examples/`](./examples/)
+for case studies:
 
-- [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) — archetype #1
-- [agi-strategy-government](https://github.com/Khullani/agi-strategy-government) — archetype #2
+- **#1** — [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) (legislative tracker)
+- **#2** — [agi-strategy-government](https://github.com/Khullani/agi-strategy-government) (Chicago salon)
+- **#3** — [HB5760 staff bill analysis](./examples/03-policy-memo.md) (delivered to Rep. Du Buclet's office; follow-up meetings in flight)
+- **#4** — [AI Safety Chicago white paper](./examples/04-landscape-doc.md) (convening-driven landscape doc, draft)
+- **#5** — [Crain's Chicago Business op-ed](./examples/05-op-ed.md) (March 30, 2026)
+- **#6** — [Illinois written testimony](./examples/06-public-comment.md) (co-located with the tracker)
+- **#7** — [AI Safety Chicago](./examples/07-convening.md) (recurring series, co-hosted with BlueDot Impact)
+- **#8** — Apply via BlueDot's facilitator pipeline; see archetype #2 for the local-adaptation route.
 
 If you build a v1 of any archetype, open a PR to [`CHANGELOG.md`](./CHANGELOG.md)
 and I'll link to it from the menu. That's how this menu gets longer and

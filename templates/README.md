@@ -15,7 +15,8 @@ Copy the one you need, fill it in, throw away the parts that don't fit.
 |-----------|-----------|
 | 1. Tracker | [`repo-readme-skeleton.md`](./repo-readme-skeleton.md) |
 | 2. Local salon | [`salon-invitation-email.md`](./salon-invitation-email.md), [`salon-session-outline.md`](./salon-session-outline.md) |
-| 3. Policy memo | [`one-pager.md`](./one-pager.md) |
+| 3. Policy memo (recommendation memo variant) | [`one-pager.md`](./one-pager.md) |
+| 3. Policy memo (staff bill analysis variant) | [`staff-bill-analysis.md`](./staff-bill-analysis.md) |
 | 4. Landscape doc | [`landscape-doc-skeleton.md`](./landscape-doc-skeleton.md) |
 | 5. Op-ed | [`op-ed-skeleton.md`](./op-ed-skeleton.md), [`op-ed-pitch.md`](./op-ed-pitch.md) |
 | 6. Public comment | [`public-comment-skeleton.md`](./public-comment-skeleton.md) |
