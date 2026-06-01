@@ -69,3 +69,20 @@ better-evidenced over time.
 
 CC BY 4.0 — fork it, adapt it, run it for your own cohorts. Attribution
 appreciated, not required.
+
+## A living document
+
+This repo is meant to grow. If you've facilitated a cohort, shipped a v1
+of any archetype, or noticed a pattern that should be on the menu but
+isn't — see [`CONTRIBUTING.md`](./CONTRIBUTING.md). Facilitator
+contributions especially: each cohort you've run is evidence the next
+facilitator gets to use.
+
+## Facilitators using this playbook
+
+If you're using this playbook with a cohort, add yourself here via PR
+(see [`CONTRIBUTING.md`](./CONTRIBUTING.md)).
+
+- **Khullani Abdullahi** — Techne AI, Chicago — BlueDot Frontier AI
+  Governance cohorts, multiple sessions. Original author.
+- *Your name here.*

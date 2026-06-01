@@ -4,6 +4,10 @@ Records of the cohorts I've handed this menu to, and what the participants
 chose to ship. Adapted from the format in
 [agi-strategy-government](https://github.com/Khullani/agi-strategy-government).
 
+The repo is a living document — see
+[`CONTRIBUTING.md`](./CONTRIBUTING.md) for how to add your cohort, your
+shipped artifacts, or a new archetype.
+
 ## Format
 
 For each cohort:
@@ -15,6 +19,18 @@ For each cohort:
 - **Lessons:** notes for the next cohort
 
 ---
+
+## v0.4 — Open for contribution
+
+- Added [`CONTRIBUTING.md`](./CONTRIBUTING.md): the five kinds of
+  contribution (examples, cohort entries, template improvements, new
+  archetypes, new appendices), the voice contract that keeps the
+  playbook coherent as it grows, what won't get merged, and how to
+  add yourself to the facilitator credits.
+- Added a PR template at `.github/PULL_REQUEST_TEMPLATE.md` so each PR
+  declares what kind of contribution it is.
+- Added a "Facilitators using this playbook" section to `README.md`.
+  Other facilitators add themselves via PR.
 
 ## v0.3 — Facilitator voice and self-assessment added
 
