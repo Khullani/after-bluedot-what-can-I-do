@@ -11,7 +11,7 @@ If you used the playbook and shipped something, open a PR to add it here.
 |---|-----------|---------|--------|
 | 1 | Tracker | [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) | Live |
 | 2 | Local salon | [agi-strategy-government](https://github.com/Khullani/agi-strategy-government) | Live (Chicago salon, 5 weeks) |
-| 3 | Policy memo / staff bill analysis | [`03-policy-memo.md`](./03-policy-memo.md) — HB5760 (Illinois) | Delivered; follow-up meetings in flight |
+| 3 | Policy memo / staff bill analysis | — (no public example yet; memos are usually private) | — |
 | 4 | Landscape doc | [`04-landscape-doc.md`](./04-landscape-doc.md) — AI Safety Chicago white paper | Draft |
 | 5 | Op-ed | [`05-op-ed.md`](./05-op-ed.md) — Crain's Chicago Business, March 2026 | Published |
 | 6 | Public comment / testimony | [`06-public-comment.md`](./06-public-comment.md) — Illinois testimony | Filed |
@@ -20,7 +20,6 @@ If you used the playbook and shipped something, open a PR to add it here.
 
 ## What's in this folder
 
-- `HB5760-staff-bill-analysis.pdf` — the actual delivered bill analysis,
-  referenced by `03-policy-memo.md`. Committed here so the example is
-  durable even if the underlying URL changes.
-- One markdown case study per archetype above with a live example.
+One markdown case study per archetype above with a live example. PDFs
+or other binary artifacts get committed alongside their case study so
+the example is durable even if the underlying URL changes.

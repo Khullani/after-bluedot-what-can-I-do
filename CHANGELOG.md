@@ -20,6 +20,21 @@ For each cohort:
 
 ---
 
+## v0.6 — Privacy pass
+
+- Pulled the HB5760 staff bill analysis example (PDF + case study).
+  The artifact discloses the existence and content of a non-public
+  discussion draft, identifies an active delivery channel to the
+  sponsor's office, and includes design rationale that could be useful
+  to bill opponents while negotiation is in flight. Will reconsider
+  re-publishing once the bill is enacted or otherwise out of the
+  sensitive negotiating window.
+- Archetype #3 reverts to "no public example yet — memos and staff
+  bill analyses are usually private through active legislative
+  negotiation," which is the honest baseline.
+- Anonymized a real cohort participant name that had leaked into an
+  example line in `templates/facilitator-wrap-up-note.md`.
+
 ## v0.5 — Community scaffolding
 
 - Added [`COMMUNITY.md`](./COMMUNITY.md): facilitator office hours

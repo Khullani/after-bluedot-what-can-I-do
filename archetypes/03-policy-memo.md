@@ -84,17 +84,11 @@ person who will hand it to them) and gotten an acknowledgement.
 
 ## Example in the wild
 
-[`examples/03-policy-memo.md`](../examples/03-policy-memo.md) — a
-5-page **staff bill analysis** of Illinois HB5760 (Commission on AI and
-Workforce Transition Act), delivered to Rep. Du Buclet's office, with
-follow-up meetings in flight. The PDF is committed to the repo so the
-artifact is durable.
-
-The shape to imitate for the 2-page recommendation memo variant is the
-kind of one-pager congressional staff actually read: tight,
-recommendation up front, opinion declared rather than hedged. I don't
-have a public example of *that* shape yet — recommendation memos are
-usually private.
+I don't have a public example of mine — memos and staff bill analyses
+delivered to sponsors and committee staff are usually working documents
+and stay private through active legislative negotiation. The shape to
+imitate is the kind of one-pager congressional staff actually read:
+tight, recommendation up front, opinion declared rather than hedged.
 
 ## How I'd start if I were you (week 1)
 

@@ -54,7 +54,7 @@ for case studies:
 
 - **#1** — [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) (legislative tracker)
 - **#2** — [agi-strategy-government](https://github.com/Khullani/agi-strategy-government) (Chicago salon)
-- **#3** — [HB5760 staff bill analysis](./examples/03-policy-memo.md) (delivered to Rep. Du Buclet's office; follow-up meetings in flight)
+- **#3** — no public example (memos and staff bill analyses are usually private through active negotiation)
 - **#4** — [AI Safety Chicago white paper](./examples/04-landscape-doc.md) (convening-driven landscape doc, draft)
 - **#5** — [Crain's Chicago Business op-ed](./examples/05-op-ed.md) (March 30, 2026)
 - **#6** — [Illinois written testimony](./examples/06-public-comment.md) (co-located with the tracker)
