@@ -16,12 +16,23 @@ which one fits which person.
 
 ## How to use it
 
-1. Read [`PLAYBOOK.md`](./PLAYBOOK.md) — the framing and the menu.
-2. Pick **one** archetype from [`archetypes/`](./archetypes/) and commit to a
-   v1 deliverable inside six weeks. Not two. One.
-3. Grab the matching scaffold from [`templates/`](./templates/) so you don't
-   spend week one on a blank document.
-4. Tell your cohort what you picked. Public commitment beats private intent.
+1. Read [`PLAYBOOK.md`](./PLAYBOOK.md) — the framing, the menu, and two
+   appendices on staying grounded (reading list) and on listening across
+   political contexts.
+2. Score yourself on the 0–10 clarity question at the top of the
+   playbook. Then answer the question that matters more: *what would
+   help move you closer to a 10?*
+3. Pick **one** archetype from [`archetypes/`](./archetypes/) and commit
+   to a v1 deliverable inside six weeks. Not two. One.
+4. Grab the matching scaffold from [`templates/`](./templates/) so you
+   don't spend week one on a blank document.
+5. Tell your cohort what you picked. Public commitment beats private
+   intent.
+
+**For facilitators:** if you're handing this off to your own cohort,
+[`templates/facilitator-wrap-up-note.md`](./templates/facilitator-wrap-up-note.md)
+is the closing note I send 1–2 days after the last session. The playbook
+goes inside that note, not as a separate email.
 
 ## The menu
 

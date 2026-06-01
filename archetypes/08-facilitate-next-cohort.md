@@ -64,24 +64,40 @@ participants pick an archetype from this menu and start it.
 ## Example in the wild
 
 BlueDot's facilitator pipeline is the official route — apply through
-their site after your first cohort. The local-adaptation route is
-documented in
+their site after your first cohort, and consider their
+[Facilitator Training course](https://bluedot.org/courses/facilitator-training)
+as the prelude. The local-adaptation route is documented in
 [agi-strategy-government](https://github.com/Khullani/agi-strategy-government),
 which is a 5-week salon version rather than a full course but
 illustrates the adaptation pattern.
 
+## The prelude — facilitator training
+
+BlueDot offers a dedicated
+[Facilitator Training course](https://bluedot.org/courses/facilitator-training)
+as a structured prelude to facilitating any of their cohorts. If
+you've just finished a course and are seriously considering this
+archetype, the facilitator training is the cheapest, fastest way to
+test whether you're actually energized by the role before you
+commit to a full cohort. I'd recommend doing it first regardless of
+whether you ultimately facilitate through BlueDot or run a local
+adaptation.
+
 ## How I'd start if I were you (week 1)
 
-1. **Apply to BlueDot's facilitator pipeline** if you're going the
-   official route. It's competitive and slow; start the application
-   the week after your cohort ends.
-2. **If you're running a local adaptation, scope it.** Length,
+1. **Sign up for [BlueDot's Facilitator Training](https://bluedot.org/courses/facilitator-training).**
+   This is the prelude. Do it before applying to the facilitator
+   pipeline, before pre-recruiting a local cohort.
+2. **Apply to BlueDot's facilitator pipeline** after the training, if
+   you're going the official route. It's competitive and slow; start
+   the application the week after the training ends.
+3. **If you're running a local adaptation, scope it.** Length,
    participants, curriculum slice. See archetype #2 for the salon
    version.
-3. **Pre-recruit informally.** Talk to 5 candidates before you
+4. **Pre-recruit informally.** Talk to 5 candidates before you
    commit. If two or three are excited, you have momentum. If
    nobody is, the cohort isn't there yet.
-4. **Block the calendar.** Facilitation requires reliable weekly
+5. **Block the calendar.** Facilitation requires reliable weekly
    commitment. If your calendar can't hold it, don't pick this
    archetype.
 

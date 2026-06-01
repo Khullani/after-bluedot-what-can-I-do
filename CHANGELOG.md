@@ -16,6 +16,28 @@ For each cohort:
 
 ---
 
+## v0.3 — Facilitator voice and self-assessment added
+
+- Added a 0–10 clarity self-assessment to `PLAYBOOK.md` (before "The
+  three questions"), modeled on the closing-call question I ask every
+  cohort.
+- Added a "Write while you do" section to `PLAYBOOK.md` — Substack as
+  the default, kept up consistently, beats anything private.
+- Added two appendices to `PLAYBOOK.md`:
+  - *Staying grounded* — a curated reading list (memoirs, plus poetry
+    and science fiction as genres) and the rationale for why this kind
+    of reading matters for AI governance.
+  - *Talking across contexts* — a framework of conversation questions
+    for understanding the political judgment of interlocutors from
+    stratified or politically turbulent societies.
+- Added [`templates/facilitator-wrap-up-note.md`](./templates/facilitator-wrap-up-note.md):
+  the closing note to send 1–2 days after the final session, with the
+  clarity scores, individual commitments, shared themes, recommended
+  reading, and follow-up mechanic that motivated this whole project.
+- Added the
+  [BlueDot Facilitator Training course](https://bluedot.org/courses/facilitator-training)
+  as the named prelude to archetype #8.
+
 ## v0.2 — Examples populated
 
 - Added live examples for six of the eight archetypes (see

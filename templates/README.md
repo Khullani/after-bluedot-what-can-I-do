@@ -3,13 +3,15 @@
 Starter scaffolds for each archetype in [`../PLAYBOOK.md`](../PLAYBOOK.md).
 Copy the one you need, fill it in, throw away the parts that don't fit.
 
-## General
+## For cohort members building an archetype
+
+### General
 
 - [`project-brief.md`](./project-brief.md) — one-page scoping doc to fill out
   before you start any archetype. If you can't fill in the brief, you don't
   have a project yet.
 
-## Per archetype
+### Per archetype
 
 | Archetype | Templates |
 |-----------|-----------|
@@ -22,6 +24,14 @@ Copy the one you need, fill it in, throw away the parts that don't fit.
 | 6. Public comment | [`public-comment-skeleton.md`](./public-comment-skeleton.md) |
 | 7. Convening | [`convening-invitation.md`](./convening-invitation.md), [`convening-agenda.md`](./convening-agenda.md) |
 | 8. Facilitate cohort | See archetype #2 templates plus BlueDot's own facilitator materials. |
+
+## For facilitators handing this off
+
+- [`facilitator-wrap-up-note.md`](./facilitator-wrap-up-note.md) — the
+  closing note to send 1–2 days after the last session. Captures
+  clarity scores, individual commitments, shared themes, recommended
+  reading, and the follow-up promise. Hand the playbook over inside
+  this note, not separately.
 
 ## A note on using these
 
