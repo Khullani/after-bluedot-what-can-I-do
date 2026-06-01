@@ -143,7 +143,7 @@ Please don't hesitate to reach out if I can be of any help.
 - **Send within 48 hours of the last session.** Memory of the closing
   call decays fast. The note works when the cohort can still hear
   their own voices in it.
-- **Name people, not roles.** "Anjon — start a Substack tomorrow"
+- **Name people, not roles.** "[Name] — start a Substack tomorrow"
   lands. "Cohort members should consider publishing" does not.
 - **Be willing to be a little ridiculous.** Tease people gently.
   Reference inside jokes from the cohort. Use emoji where they fit.
