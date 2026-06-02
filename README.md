@@ -1,5 +1,41 @@
-## Life After a BlueDot Course: What Comes Next?##
-A facilitator's hand-off for alumni of the BlueDot Impact Frontier AI Governance course.
+# Life After a BlueDot Course: What Comes Next?
+
+A facilitator's hand-off for alumni of the BlueDot Impact Frontier AI Governance
+course.
+
+## Two ways in
+
+This repo serves two audiences. Start in the right place:
+
+- **You just finished a course.** You're deciding what to actually *do* with what
+  you learned. Read the TL;DR below, then [`PLAYBOOK.md`](./PLAYBOOK.md), then
+  pick one archetype. Everything here is built to get you to a shipped v1.
+- **You facilitate cohorts** and want to hand this off to your own people. Start
+  with [`FACILITATING.md`](./FACILITATING.md) — when to send the playbook, the
+  closing-note template, office hours, and how to log what your cohort shipped.
+
+## TL;DR
+
+You just finished a BlueDot AI governance course. The momentum is real and your
+calendar is empty. "Stay engaged with the field" is not a project, so most
+people read a few more papers, wait to feel ready, and ship nothing. This repo
+is the menu of concrete next projects I wish someone had handed me: eight
+archetypes for post-course work, each with honest tradeoffs about who it fits.
+
+The whole method, in five steps:
+
+1. Score yourself 0–10 on *"how clear am I on my next step?"* (top of the
+   [playbook](./PLAYBOOK.md)). If you're a 0–3, do a short reading-and-conversation
+   sprint first; if you're 4+, keep going.
+2. Read [`PLAYBOOK.md`](./PLAYBOOK.md) once — the framing and the menu.
+3. Pick **one** archetype from the menu below and commit to a v1 deliverable
+   inside six weeks. One, not three.
+4. Grab the matching [template](./templates/) so you don't start from a blank page.
+5. Tell your cohort what you picked. Public commitment beats private intent.
+
+That's it. Pick one finishable thing, scaffold it, say it out loud. Everything
+else in this repo is detail in service of those five steps. New here and want
+the short answers to common questions? See [`FAQ.md`](./FAQ.md).
 
 ## Who this is for
 
@@ -29,9 +65,10 @@ which one fits which person.
    intent.
 
 **For facilitators:** if you're handing this off to your own cohort,
-[`templates/facilitator-wrap-up-note.md`](./templates/facilitator-wrap-up-note.md)
-is the closing note I send 1–2 days after the last session. The playbook
-goes inside that note, not as a separate email.
+[`FACILITATING.md`](./FACILITATING.md) is the full hand-off guide, built around
+the closing note in
+[`templates/facilitator-wrap-up-note.md`](./templates/facilitator-wrap-up-note.md).
+The playbook goes inside that note, not as a separate email.
 
 ## The menu
 
@@ -64,10 +101,27 @@ If you build a v1 of any archetype, open a PR to [`CHANGELOG.md`](./CHANGELOG.md
 and I'll link to it from the menu. That's how this menu gets longer and
 better-evidenced over time.
 
+## About
+
+This playbook started as the closing note I send my own cohorts 1–2 days after
+the last session of the BlueDot Impact Frontier AI Governance course. It grew
+into a menu because "stay engaged with the field" is not a project, and the
+vague advice people get at the end of a course is the reason so little gets
+shipped in the weeks after.
+
+It's deliberately opinionated and first-person — a hand-off, not a balanced
+catalog. The eight archetypes are the moves I've watched actually work for
+cohort members, written with honest tradeoffs about which one fits whom. Real
+artifacts back most of them (see [`examples/`](./examples/)).
+
+Maintained by **Khullani Abdullahi** (Techne AI, Chicago). It's a living
+document: facilitators and alumni extend it as new cohorts ship new work — see
+[`CONTRIBUTING.md`](./CONTRIBUTING.md) and [`FACILITATING.md`](./FACILITATING.md).
+
 ## License
 
-CC BY 4.0 — fork it, adapt it, run it for your own cohorts. Attribution
-appreciated, not required.
+[CC BY 4.0](./LICENSE) — fork it, adapt it, run it for your own cohorts.
+Attribution appreciated, not required.
 
 ## A living document
 
@@ -88,6 +142,8 @@ The fastest way in:
 - **Get on the WhatsApp** — faster-than-email channel for facilitators.
   Request access in your cohort-entry issue or via email
   ([`COMMUNITY.md`](./COMMUNITY.md)).
+
+New contributors should also read the [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
 
 ## Facilitators using this playbook
 

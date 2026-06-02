@@ -2,6 +2,15 @@
 
 This is the long version of the README. Read it once, then pick one archetype.
 
+> **Who this is written to.** This document speaks directly to *you* — the
+> person who just finished a course and is deciding what to do next. If you're a
+> **facilitator** handing this playbook off to a cohort, read
+> [`FACILITATING.md`](./FACILITATING.md) first; it covers the timing, the
+> closing note, and the follow-up that make the hand-off actually land. The two
+> appendices at the end (a reading list for staying grounded, and a note on
+> listening across political contexts) are facilitator-oriented material worth
+> reading either way.
+
 ## Why I wrote this
 
 Every cohort I've facilitated ends the same way: a closing call, a flurry of
