@@ -62,15 +62,19 @@ accountability.
 
 ## Staying connected to other facilitators
 
-[`COMMUNITY.md`](./COMMUNITY.md) is the hub:
+There isn't a live cross-facilitator community attached to this repo right
+now — no central office hours series, no shared WhatsApp. If you'd like to
+set one up around your own cohort or local network,
+[`COMMUNITY.md`](./COMMUNITY.md) has patterns for both (cadence, agenda,
+norms) that you can adapt.
 
-- **Office hours** — monthly for the first three months after launch, quarterly
-  after that. Trade what's working across cohorts and pressure-test new
-  archetype ideas.
-- **WhatsApp** — faster-than-email channel for facilitators running this
-  playbook.
-- **The lightest path in** — open a cohort-entry issue, request the WhatsApp
-  invite, sign up for the next call.
+If you want to be in touch directly:
+
+- **Open a cohort-entry issue** — adds you to the public facilitators list in
+  [`README.md`](./README.md) and is the searchable trail other facilitators
+  find later.
+- **Email the maintainer** at **info@techne.ai** for anything substantive
+  that doesn't fit an issue.
 
 ## If you want to facilitate a full cohort
 

@@ -36,12 +36,7 @@ This Code of Conduct applies within all community spaces — including this repo
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the maintainer responsible for enforcement at **[REPLACE — maintainer contact email]**. All complaints will be reviewed and investigated promptly and fairly.
-
-> **Maintainer note:** The reporting address above is a placeholder, like the
-> ones in [`COMMUNITY.md`](./COMMUNITY.md). Set it to a real, monitored inbox
-> before sharing this repo broadly — a code of conduct with no working
-> reporting channel is worse than none.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the maintainer responsible for enforcement at **info@techne.ai**. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
