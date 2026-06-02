@@ -20,13 +20,12 @@ For each cohort:
 
 ---
 
-## [Next cohort — to be filled in after first hand-off]
+## Cohort entries
 
-- **Cohort:**
-- **Participants:**
-- **Archetypes chosen:**
-- **Shipped (v1):**
-- **Lessons:**
+*First entries pending — the playbook has just gone public and the first
+cohort hand-offs are landing now. Entries will appear here as cohort members
+ship v1s. If you facilitated a cohort using this menu, see
+[`CONTRIBUTING.md`](./CONTRIBUTING.md) for the entry format and open a PR.*
 
 ---
 
