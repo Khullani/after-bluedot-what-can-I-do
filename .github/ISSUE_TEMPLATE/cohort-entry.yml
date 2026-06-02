@@ -1,0 +1,87 @@
+name: Cohort entry
+description: Log a cohort you facilitated (or are about to facilitate) using this playbook.
+title: "[Cohort] <your cohort identifier — e.g., Chicago Frontier AI Gov, Spring 2026>"
+labels: ["cohort-entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for logging your cohort. The more entries we collect here, the more
+        evidence the next facilitator gets to use. Fields marked optional really are
+        optional — submit what you have.
+  - type: input
+    id: facilitator
+    attributes:
+      label: Facilitator name(s)
+      description: Who facilitated this cohort?
+      placeholder: e.g., Khullani Abdullahi, Techne AI
+    validations:
+      required: true
+  - type: input
+    id: course
+    attributes:
+      label: Course / cohort name
+      description: What course was this (BlueDot Frontier AI Gov, AGI Strategy, a local adaptation)?
+      placeholder: e.g., BlueDot Frontier AI Governance, Spring 2026
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Dates
+      description: When did the cohort run? Just month/year is fine.
+      placeholder: e.g., Jan–Mar 2026
+    validations:
+      required: true
+  - type: input
+    id: participants
+    attributes:
+      label: Number of participants
+      placeholder: e.g., 6
+    validations:
+      required: true
+  - type: checkboxes
+    id: archetypes
+    attributes:
+      label: Archetypes picked by participants
+      description: Which archetypes did people commit to? (Multiple OK.)
+      options:
+        - label: "#1 Legislative / regulatory tracker"
+        - label: "#2 Local salon / reading group"
+        - label: "#3 Policy memo (recommendation memo variant)"
+        - label: "#3 Policy memo (staff bill analysis variant)"
+        - label: "#4 Landscape doc on an under-covered topic"
+        - label: "#5 Op-ed / public writing"
+        - label: "#6 Public comment / regulatory submission"
+        - label: "#7 Convening / panel / workshop"
+        - label: "#8 Facilitate the next cohort"
+        - label: "Something off-menu (describe below)"
+  - type: textarea
+    id: shipped
+    attributes:
+      label: What shipped (or is in flight)
+      description: |
+        List the v1 deliverables and links if they're public. Names of cohort members
+        omitted unless they want public credit.
+      placeholder: |
+        - [Participant or anonymous]: shipped [artifact + link]
+        - [Participant or anonymous]: in flight — [what + ETA]
+  - type: textarea
+    id: lessons
+    attributes:
+      label: What worked, what stalled, what you'd do differently
+      description: |
+        The most useful field for the next facilitator. Be specific and honest about
+        what didn't work — that's where the value compounds.
+      placeholder: |
+        - Worked:
+        - Stalled:
+        - Would change:
+  - type: checkboxes
+    id: credits
+    attributes:
+      label: Facilitator credits
+      options:
+        - label: Add me to the "Facilitators using this playbook" list in README.md.
+        - label: I'd like the WhatsApp invite (see COMMUNITY.md).
+        - label: I'd like to be on the next office hours call (see COMMUNITY.md).
