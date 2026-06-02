@@ -124,13 +124,11 @@ The cohort-entry issue template has a checkbox for this — easiest path.
 
 ## Staying in touch
 
-See [`COMMUNITY.md`](./COMMUNITY.md) for:
-
-- The facilitator office hours cadence (monthly for the first three
-  months after launch, quarterly thereafter).
-- The WhatsApp groups — core facilitator channel plus optional regional
-  spinoffs.
-- The lightest path in as a new facilitator.
+There isn't a live cross-facilitator office hours or chat group attached to
+this repo. If you want to set one up around your own cohort or facilitator
+network, [`COMMUNITY.md`](./COMMUNITY.md) has patterns to adapt. For direct
+contact with the maintainer: open an issue, open a PR, or email
+**info@techne.ai**.
 
 ## Disagreements
 

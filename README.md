@@ -136,13 +136,13 @@ The fastest way in:
 - **Open an issue** — pick the right template (cohort entry, new
   example, new archetype, or disagreement) at
   [`/issues/new/choose`](../../issues/new/choose).
-- **Join the next office hours call** — monthly for the first three
-  months after launch, quarterly after that. See
-  [`COMMUNITY.md`](./COMMUNITY.md) for the schedule.
-- **Get on the WhatsApp** — faster-than-email channel for facilitators.
-  Request access in your cohort-entry issue or via email
-  ([`COMMUNITY.md`](./COMMUNITY.md)).
+- **Open a PR** — see [`CONTRIBUTING.md`](./CONTRIBUTING.md) for what
+  kinds of changes I'll merge and the voice contract.
+- **Email the maintainer** at **info@techne.ai** for anything that
+  doesn't fit an issue or PR.
 
+If you're setting up office hours or a chat group for your own cohort or
+facilitator network, [`COMMUNITY.md`](./COMMUNITY.md) has patterns to adapt.
 New contributors should also read the [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
 
 ## Facilitators using this playbook

@@ -1,43 +1,46 @@
-# Community
+# Community patterns
 
-The playbook is the substrate. The community is what makes it evolve faster
-than any one of us could on our own.
+Guidance for facilitators who want to set up community around their own cohorts
+using this playbook.
 
-This document is where you find the facilitator office hours, the WhatsApp
-groups, and the conventions we use to keep cohort experience compounding
-across the people running this playbook.
+> **What this document is.** This is template/guidance content, not a
+> description of a live office hours series or WhatsApp group that this repo
+> runs. The maintainer does not currently host either; if you'd like to set
+> them up for your own cohort or facilitator network, the patterns below are
+> what I've seen work. Adapt them, fork them, ignore them.
+>
+> For questions about the playbook itself, email the maintainer at
+> **info@techne.ai**.
 
-> **Maintainer note:** Items marked **[REPLACE]** below are placeholders to
-> fill in once the corresponding invite/calendar exists. Don't share this
-> document publicly until those are real links.
+## Facilitator office hours (a pattern)
 
-## Facilitator office hours
-
-A recurring call for facilitators using this playbook. The point is to
-trade what's working and what isn't across cohorts, surface candidate
-new archetypes, and review live examples that have shipped since the
-last call.
+A recurring call for facilitators using this playbook is the kind of forum
+where it gets sharper over time — trading what's working and what isn't
+across cohorts, surfacing candidate new archetypes, and reviewing live
+examples that have shipped since the last call. If you want to run one, here's
+the shape I'd start with.
 
 ### Cadence
 
-- **Monthly** for the first three months after this playbook went public.
-- **Quarterly** thereafter.
+- **Monthly** while the community is young — short feedback loops are how the
+  documents and patterns actually improve.
+- **Quarterly** once it stabilizes — sustainable over years.
 
-Monthly while the document is young helps us iterate on what's missing
-quickly; quarterly once it stabilizes keeps the cadence sustainable.
+If you launch one, expect the first two or three calls to feel under-attended.
+That's fine: the people who do show up are the ones whose feedback will sharpen
+the playbook most.
 
-### Schedule
+### Hosting
 
-- **Day / time:** **[REPLACE — e.g., First Wednesday of the month, 12:00–13:00 CT]**
-- **First three monthly calls:** **[REPLACE — dates]**
-- **First quarterly call after that:** **[REPLACE — date]**
-- **Signup / calendar:** **[REPLACE — Luma series link or calendar invite]**
-
-I'd suggest hosting the series on Luma (you already host
-[AI Safety Chicago](https://luma.com/ais-chicago) there), so the signup
-flow is familiar and you get email captures by default.
+[Luma](https://lu.ma) works well for a recurring series — familiar signup
+flow, email capture by default, calendar integration. (For reference, AI
+Safety Chicago runs at [luma.com/ais-chicago](https://luma.com/ais-chicago).)
+Any tool that gives you a stable RSVP link and an email list is fine; pick
+the one your audience already uses.
 
 ### Standing agenda (60 minutes)
+
+A structure that's worked in adjacent communities:
 
 - **0–10:** Round-robin check-in. Each facilitator: cohort status,
   one thing that worked last month, one thing that stalled.
@@ -53,13 +56,16 @@ flow is familiar and you get email captures by default.
 
 ### Notes
 
-Notes from each call get summarized into a one-page recap and posted
-as a GitHub issue tagged `office-hours`. Anyone unable to attend can
-catch up by reading the recaps in reverse chronological order.
+If you run this, summarize each call into a one-page recap and post it as a
+GitHub issue tagged `office-hours` on your fork (or this repo, if it's a
+shared call). People who couldn't attend catch up by reading the recaps in
+reverse chronological order; the issue thread also doubles as a searchable
+archive.
 
-## WhatsApp groups
+## WhatsApp groups (a pattern)
 
-Faster-than-email asynchronous channel for the same group. Use it for:
+For a faster-than-email asynchronous channel between calls, WhatsApp works
+well — high open rates, low friction. Useful for:
 
 - Sharing live updates between cohorts
 - Asking quick questions ("anyone run a salon with mid-career legal
@@ -68,49 +74,42 @@ Faster-than-email asynchronous channel for the same group. Use it for:
   that just opened)
 - Coordinating regional meetups
 
-### Groups
+Pick whatever messaging tool your audience already uses; the platform is
+incidental to the norms.
 
-- **Facilitators using this playbook (core).**
-  Maintainer-curated. Open to anyone running a BlueDot cohort or a
-  local adaptation, plus people who have shipped a v1 of one of the
-  archetypes.
-  **Invite link: [REPLACE — chat.whatsapp.com/...]**
+### Suggested groups
 
-- **Regional groups** (form organically as the network grows).
+- **A core group for facilitators using your fork of the playbook.**
+  Maintainer-curated. Open to anyone running a cohort, plus people who have
+  shipped a v1 of one of the archetypes.
+
+- **Regional groups** (form organically once the network grows).
   Chicago, Bay Area, NYC, DC, London, etc. Spin one up when there are
-  4+ facilitators in a single city; cross-link from this section.
+  4+ facilitators in a single city.
 
-### Norms
-
-A short list, to keep the channel useful:
+### Norms that keep the channel useful
 
 - **Substance over signal.** Share artifacts, not just opinions.
 - **Name what you're asking for.** "Looking for feedback on this draft
   by Friday" lands better than "thoughts?"
 - **Default to Chatham House for sensitive discussions.** If you're
   sharing a draft memo or a private cohort dynamic, say so explicitly.
-- **Cross-post to GitHub when something compounds.** If a WhatsApp
-  exchange produces a template improvement or a new archetype idea,
-  open the issue or PR. The chat is for speed; the repo is for memory.
+- **Cross-post to GitHub when something compounds.** If a chat exchange
+  produces a template improvement or a new archetype idea, open the issue
+  or PR. The chat is for speed; the repo is for memory.
 
-## Getting plugged in as a new facilitator
+## A note on the maintainer
 
-If you're a facilitator running this playbook with a cohort — current,
-past, or planned — here's the lightest path in:
+There isn't a live cross-facilitator community attached to this specific repo
+right now. The patterns above describe what one could look like, drawn from
+adjacent communities I've watched work; whether to set one up — and who to
+include — is a call for whoever is facilitating, not the maintainer.
 
-1. **Open a [cohort-entry issue](../../issues/new/choose)** so we know
-   you exist. This is the same step that gets you onto the
-   "Facilitators using this playbook" list in
-   [`README.md`](./README.md).
-2. **Request the WhatsApp invite** by either commenting on your
-   cohort-entry issue or emailing the maintainer
-   (**[REPLACE — email]**).
-3. **Sign up for the next office hours call** via the signup link
-   above.
-4. **(Optional) Sign up for [BlueDot's Facilitator Training](https://bluedot.org/courses/facilitator-training)**
-   if you haven't already.
+For substantive questions about the playbook, archetype proposals, or
+contributions, the best paths are:
 
-You don't have to wait until you've finished a cohort. People who are
-*planning* a cohort benefit just as much from the office hours and the
-WhatsApp group — often more, because the calls let you pressure-test
-your recruitment and design before you commit.
+1. **Open an issue** at [`/issues/new/choose`](../../issues/new/choose) —
+   cohort-entry, new-example, new-archetype-proposal, or disagree-or-clarify.
+2. **Open a PR** — see [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+3. **Email the maintainer** at **info@techne.ai** for anything that doesn't
+   fit either.

@@ -84,9 +84,13 @@ highest-value contribution. New archetypes have a higher bar: propose only what
 you've watched at least one person actually ship. Full details and the voice
 contract are in [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
-**How do I get into the community — office hours, WhatsApp?**
-See [`COMMUNITY.md`](./COMMUNITY.md). Open a cohort-entry issue, request the
-WhatsApp invite, and sign up for the next office hours call.
+**Is there a live community — office hours, WhatsApp, Slack?**
+Not attached to this repo, no. The maintainer doesn't currently run a
+cross-facilitator office hours series or chat group.
+[`COMMUNITY.md`](./COMMUNITY.md) has patterns (cadence, agenda, norms) you can
+adapt if you want to set one up around your own cohort or local network. For
+direct contact with the maintainer: open an issue, open a PR, or email
+**info@techne.ai**.
 
 **Why is the playbook so opinionated and first-person?**
 On purpose. A hand-off works when someone tells you what to do this week, not
