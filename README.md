@@ -10,7 +10,7 @@ calendar is empty. You want to do something useful with what you learned, but
 suggest at the end of a course are vague enough that you'll end up doing none
 of them.
 
-This repo is the menu I wish someone had handed me. It's seven concrete
+This repo is the menu I wish someone had handed me. It's eight concrete
 archetypes for post-course projects, in my voice, with honest tradeoffs about
 which one fits which person.
 
