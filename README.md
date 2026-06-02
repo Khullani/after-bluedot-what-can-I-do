@@ -1,5 +1,4 @@
-# after-bluedot-what-can-I-do
-
+## Life After a BlueDot Course: What Comes Next?##
 A facilitator's hand-off for alumni of the BlueDot Impact Frontier AI Governance course.
 
 ## Who this is for
