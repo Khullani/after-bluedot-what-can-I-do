@@ -1,7 +1,7 @@
 # Life After a BlueDot Course: What Comes Next?
 
-A facilitator's hand-off for alumni of the BlueDot Impact Frontier AI Governance
-course.
+A post-course playbook for BlueDot Frontier AI Governance alumni — written by
+a facilitator, usable by anyone in any cohort.
 
 ## Two ways in
 
@@ -39,13 +39,13 @@ the short answers to common questions? See [`FAQ.md`](./FAQ.md).
 
 ## Who this is for
 
-You finished a BlueDot course I facilitated. The momentum is real and the
-calendar is empty. You want to do something useful with what you learned, but
-"stay engaged with the field" is not a project, and most of the moves people
-suggest at the end of a course are vague enough that you'll end up doing none
-of them.
+You finished a BlueDot Frontier AI Governance course — mine or anyone else's,
+the playbook works the same. The momentum is real and the calendar is empty.
+You want to do something useful with what you learned, but "stay engaged with
+the field" is not a project, and most of the moves people suggest at the end
+of a course are vague enough that you'll end up doing none of them.
 
-This repo is the menu I wish someone had handed me. It's seven concrete
+This repo is the menu I wish someone had handed me. It's eight concrete
 archetypes for post-course projects, in my voice, with honest tradeoffs about
 which one fits which person.
 
@@ -108,6 +108,13 @@ the last session of the BlueDot Impact Frontier AI Governance course. It grew
 into a menu because "stay engaged with the field" is not a project, and the
 vague advice people get at the end of a course is the reason so little gets
 shipped in the weeks after.
+
+It's written for any BlueDot Frontier AI Governance alum, not only my own
+cohorts — the menu, the templates, and the case studies port cleanly to
+anyone leaving the course with momentum and an empty calendar. If you're a
+facilitator handing it off to *your* cohort, see
+[`FACILITATING.md`](./FACILITATING.md); the CC BY 4.0 license means you can
+fork and adapt without asking.
 
 It's deliberately opinionated and first-person — a hand-off, not a balanced
 catalog. The eight archetypes are the moves I've watched actually work for
