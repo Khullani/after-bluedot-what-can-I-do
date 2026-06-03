@@ -1,4 +1,4 @@
-# Archetype 5: Op-Ed / Public Writing
+# Archetype 5: Op-ed / public writing
 
 > One published piece in an outlet your stakeholders read.
 
@@ -68,7 +68,7 @@ Business* (Commentary section, March 30, 2026), arguing that Illinois
 should pass HB 4705 / SB 3261 because surgically targeting only the
 largest AI companies best balances public safety with innovation. Aimed
 at Illinois state legislators in Springfield. Byline: "Khullani
-Abdullahi is CEO Techne AI in Chicago."
+Abdullahi is CEO of Techne AI in Chicago."
 
 Other external examples worth studying: Lawfare's AI policy section,
 Tech Policy Press, the op-ed pages of state-level papers. Notice how

@@ -1,4 +1,4 @@
-# Archetype 4: Landscape Doc on an Under-Covered Topic
+# Archetype 4: Landscape doc on an under-covered topic
 
 > A public writeup that fills a gap in the literature nobody else has filled.
 

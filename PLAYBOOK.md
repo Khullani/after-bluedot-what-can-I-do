@@ -105,7 +105,7 @@ to the salon. If you can't name the human, your archetype is too abstract.
 
 ## The menu, with honest tradeoffs
 
-### 1. Legislative/regulatory tracker → [details](./archetypes/01-legislative-tracker.md)
+### 1. Legislative / regulatory tracker → [details](./archetypes/01-legislative-tracker.md)
 
 **Good if** you live in or care about a specific jurisdiction, like
 making things legible, and don't mind shipping a small website.

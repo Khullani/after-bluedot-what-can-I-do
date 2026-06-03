@@ -10,7 +10,7 @@
 - **Outlet:** *Crain's Chicago Business*, Commentary section
 - **Published:** March 30, 2026 (4:21 PM CDT)
 - **Link:** [chicagobusiness.com/opinion/commentary/ccb-opinion-ai-legislation-20260330](https://www.chicagobusiness.com/opinion/commentary/ccb-opinion-ai-legislation-20260330/)
-- **Byline:** Khullani Abdullahi, CEO Techne AI in Chicago
+- **Byline:** Khullani Abdullahi, CEO of Techne AI in Chicago
 
 ## The argument
 
@@ -33,7 +33,7 @@ considering HB 4705 / SB 3261 during the 104th General Assembly.
   largest companies" is a single, sharp claim. The piece doesn't try
   to also cover safety techniques, international comparisons, or
   long-horizon risk.
-- **The byline carries operational credibility.** "CEO Techne AI in
+- **The byline carries operational credibility.** "CEO of Techne AI in
   Chicago" + the opening self-description ("I run Techne AI, a
   Chicago-based consultancy that focuses on AI governance, risk and
   compliance") signals that the author works in the actual market the

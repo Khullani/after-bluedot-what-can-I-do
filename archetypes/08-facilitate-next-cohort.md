@@ -1,4 +1,4 @@
-# Archetype 8: Facilitate the Next Cohort
+# Archetype 8: Facilitate the next cohort
 
 > Run a BlueDot course — the same one you took, or a local adaptation —
 > for a new group.

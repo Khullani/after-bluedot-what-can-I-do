@@ -1,4 +1,4 @@
-# Archetype 3: Policy Memo for a Specific Stakeholder
+# Archetype 3: Policy memo for a specific stakeholder
 
 > One named decision-maker. One decision they're about to make. Two pages —
 > or, in the staff-analysis variant, five.
