@@ -1,7 +1,7 @@
 # Examples
 
 Real artifacts from cohorts I've facilitated and from my own post-BlueDot
-work. Each is a concrete instance of one of the eleven archetypes in
+work. Each is a concrete instance of one of the twelve archetypes in
 [`../PLAYBOOK.md`](../PLAYBOOK.md). The case studies are short — what was
 shipped, who got it, and what happened.
 
@@ -20,6 +20,7 @@ If you used the playbook and shipped something, open a PR to add it here.
 | 9 | Apply for a specific role | Applications are private — see [`jobs.80000hours.org`](https://jobs.80000hours.org/) for the canonical board | n/a by design |
 | 10 | Apply for a fellowship | Applications are private — see [archetype #10](../archetypes/10-fellowship-application.md) for the ten most-cited fellowships | n/a by design |
 | 11 | Substack | [`11-substack.md`](./11-substack.md) — Heterotopia AI ("Parrhesia, Praxis, and Poetry") | Published |
+| 12 | Draft a bill | [`12-bill-drafting.md`](./12-bill-drafting.md) — IL HB5760 (AI Work Transition Commission, sponsor du Buclet) | Introduced; in committee |
 
 ## What's in this folder
 

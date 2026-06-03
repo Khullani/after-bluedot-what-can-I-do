@@ -213,6 +213,22 @@ will kill the cadence.
 
 Example: [Heterotopia AI Substack — "Parrhesia, Praxis, and Poetry"](https://heterotopiaai.substack.com/p/parrhesia-praxis-and-poetry-ai-governances).
 
+### 12. Draft a bill (for a willing sponsor) → [details](./archetypes/12-bill-drafting.md)
+
+**Good if** you have a named legislative sponsor who's agreed to file
+it, a substantive brief (memo / landscape doc / tracker) that frames
+the gap, and 12–24 weeks of capacity to navigate the session. The
+highest-leverage archetype on the menu when those three are real —
+the bill *is* the policy if it passes.
+**Bad if** you don't have a sponsor. Bills with no sponsor don't get
+introduced. Most "AI policy gaps" are regulatory, not legislative —
+use #6 (public comment) if there's open rulemaking. And the bar on
+legislative-process knowledge is high; if you haven't worked in or
+near a legislative office, partner with someone who has.
+
+Example: [IL HB5760 — AI Work Transition Commission](https://www.billtrack50.com/billdetail/2002509)
+(sponsor: Rep. du Buclet; introduced April 30, 2026).
+
 ## If you only do one thing
 
 If you have less than four hours a week and want the highest expected
@@ -244,6 +260,13 @@ for a second:
 - **Any archetype → #11 (Substack)** — the four-week post cadence is a
   reflection structure for whatever you shipped. One post per week, each
   pulling at a different thread from the v1.
+- **#1 (tracker) or #3 (memo) → #12 (bill)** — the tracker surfaces the
+  legislative gap; the memo argues the case to the sponsor's office;
+  the bill is the vehicle that fills the gap. Requires a willing
+  sponsor — without one, the bill is unfiled text.
+- **#12 (bill) → #6 (public comment)** — when a bill passes, the
+  agencies named in it produce rulemaking. Your next archetype is
+  comments on that rulemaking, with the bill as your standing.
 
 ## Write while you do
 
