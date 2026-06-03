@@ -1,0 +1,17 @@
+# CODEOWNERS
+#
+# This is a docs-only repository maintained by a single person. The owner is
+# the default reviewer on every path. If additional maintainers are added in
+# the future, list them by GitHub handle on the relevant path patterns below
+# (one per line, more-specific patterns override less-specific ones).
+#
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-security/customizing-your-repository/about-code-owners
+
+# Catch-all — every path defaults to the maintainer.
+*  @Khullani
+
+# Per-area examples (commented out; uncomment and adjust if you add maintainers):
+# /archetypes/    @Khullani @second-maintainer-handle
+# /templates/     @Khullani
+# /examples/      @Khullani
+# /FACILITATING.md  @Khullani
