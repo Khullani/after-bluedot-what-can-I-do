@@ -62,11 +62,12 @@ unprompted.
 ## Example in the wild
 
 [`examples/04-landscape-doc.md`](../examples/04-landscape-doc.md) —
-the inaugural white paper from the AI Safety Chicago event series
-(co-hosted by Techne AI and BlueDot Impact). Pressure-tested by ~120
-practitioners from Chicago universities and regulatory/legal employers
-at the convening, then drafted into a public landscape doc. This is the
-**#7 (convening) → #4 (landscape doc) combination** in action.
+the **DNA synthesis landscape document**, a field-building writeup
+published by BlueDot Impact using their
+[field strategy playbook](https://blog.bluedot.org/p/field-strategy-playbook).
+Maps an under-covered cross-section (AI policy × DNA synthesis
+governance) and treats the doc itself as infrastructure for future
+contributors.
 
 Good external models for solo desk-research landscape docs: AI Now
 Institute's annual reports, GovAI's policy briefs, the AI Index. Notice

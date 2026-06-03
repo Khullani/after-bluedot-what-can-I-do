@@ -23,6 +23,26 @@ The fix is not motivation. The fix is a menu of moves that are small enough
 to start this week and concrete enough that you'll know whether you
 finished.
 
+## The method, in five steps
+
+This is the long version. The compressed version is the same five steps the
+README has, written out once here so you can hold the shape in your head as
+you read the rest:
+
+1. **Score yourself 0–10** on *"how clear am I on my next step?"* (below).
+   If you're a 0–3, do a short reading-and-conversation sprint first; if
+   you're 4+, keep going.
+2. **Read the menu** below and the three questions that pick the archetype
+   for you.
+3. **Pick one** archetype and commit to a v1 deliverable inside six weeks.
+   One, not three.
+4. **Grab the matching [template](./templates/)** so you don't start from
+   a blank page.
+5. **Tell your cohort what you picked.** Public commitment beats private
+   intent.
+
+Everything else in this document is detail in service of those five steps.
+
 ## Before the menu: where are you, honestly?
 
 On the last day of every cohort I've facilitated, I ask each person two
@@ -252,7 +272,7 @@ And two genres rather than specific titles:
   with you and read three poems a week.
 - **Science fiction**, as an operating manual. The serious novels in the
   genre — Le Guin, Stanisław Lem, Ted Chiang, Kim Stanley Robinson —
-  are the closest thing we have to a literature that takes
+  are the closest thing in print to a literature that takes
   transformative change seriously while staying tethered to human-scale
   consequences.
 
@@ -260,8 +280,8 @@ Also useful — though not a memoir — is *Behave: The Biology of Humans
 at Our Best and Worst* (Robert Sapolsky), for what it does to your
 sense of how much free will any of us is actually exercising.
 
-While we focus, in the course, on the things that could go wrong so
-we can prepare for them, you also need a positive vision of the world
+While the course focuses on what could go wrong so you can prepare for it,
+you also need a positive vision of the world
 to work *toward*. These books are about people in genuinely difficult
 circumstances who found a way. They're the counterweight to the part
 of this field that can drift toward despair.

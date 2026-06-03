@@ -32,7 +32,7 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 
 ## Scope
 
-This Code of Conduct applies within all community spaces — including this repository, its issues and pull requests, the facilitator office hours, and the WhatsApp groups described in [`COMMUNITY.md`](./COMMUNITY.md) — and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+This Code of Conduct applies within all community spaces — including this repository, its issues and pull requests, and any community spaces facilitators set up using the patterns in [`COMMUNITY.md`](./COMMUNITY.md) — and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
 ## Enforcement
 
