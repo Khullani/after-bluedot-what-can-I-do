@@ -96,7 +96,7 @@ failure, propaganda, scarcity, and moral choice under pressure.
 
 I'm sharing
 [**after-bluedot-what-can-I-do**](https://github.com/Khullani/after-bluedot-what-can-I-do)
-— a menu of eight concrete archetypes for post-course projects, with
+— a menu of eleven concrete archetypes for post-course projects, with
 templates and live examples. Pick one this week. Commit to a v1
 inside six weeks. Tell the group what you picked.
 

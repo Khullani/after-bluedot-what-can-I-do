@@ -45,7 +45,7 @@ You want to do something useful with what you learned, but "stay engaged with
 the field" is not a project, and most of the moves people suggest at the end
 of a course are vague enough that you'll end up doing none of them.
 
-This repo is the menu I wish someone had handed me. It's eight concrete
+This repo is the menu I wish someone had handed me. It's eleven concrete
 archetypes for post-course projects, in my voice, with honest tradeoffs about
 which one fits which person.
 
@@ -82,10 +82,13 @@ The playbook goes inside that note, not as a separate email.
 | 6 | [Public comment / regulatory submission](./archetypes/06-public-comment.md) | Respond to an open RFC, NIST draft, or agency notice | 2–4 weeks |
 | 7 | [Convening / panel / workshop](./archetypes/07-convening.md) | Get the right 8 people in a room for 90 minutes | 4–8 weeks |
 | 8 | [Facilitate the next cohort](./archetypes/08-facilitate-next-cohort.md) | Run BlueDot, or your local adaptation, for a new group | 8–12 weeks |
+| 9 | [Apply for a specific role](./archetypes/09-job-application.md) | One named role at one named org, with the same investment you'd give a memo | 4 weeks |
+| 10 | [Apply for a fellowship](./archetypes/10-fellowship-application.md) | Pick one fellowship that fits your trajectory; treat the application as an archetype | 3–6 weeks |
+| 11 | [Substack — weekly post for four weeks](./archetypes/11-substack.md) | Four posts in four weeks; clear writing is clear thinking | 4 weeks |
 
 ## Live examples
 
-Real artifacts for six of the eight archetypes — see [`examples/`](./examples/)
+Real artifacts for seven of the eleven archetypes — see [`examples/`](./examples/)
 for case studies:
 
 - **#1** — [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) (legislative tracker, live)
@@ -94,11 +97,14 @@ for case studies:
 - **#5** — [Crain's Chicago Business op-ed](./examples/05-op-ed.md) (published March 30, 2026)
 - **#6** — [Illinois written testimony](./examples/06-public-comment.md) (filed, co-located with the tracker)
 - **#7** — [AI Safety Chicago](./examples/07-convening.md) (debate series, recurring, co-hosted with BlueDot Impact)
+- **#11** — [Heterotopia AI Substack — "Parrhesia, Praxis, and Poetry"](./examples/11-substack.md) (post-course reflection, published)
 
-**No public example for #3 and #8, by design:**
+**No public example for #3, #8, #9, and #10, by design:**
 
 - **#3 (policy memo)** — memos and bill analyses are usually private through active negotiation; use the [`one-pager.md`](./templates/one-pager.md) and [`staff-bill-analysis.md`](./templates/staff-bill-analysis.md) templates instead.
 - **#8 (facilitate next cohort)** — apply via [BlueDot's facilitator pipeline](https://bluedot.org/courses/facilitator-training); for the local-adaptation route, archetype #2 (salon) is the lighter-weight version.
+- **#9 (apply for a specific role)** — applications are private; the canonical job board is [`jobs.80000hours.org`](https://jobs.80000hours.org/).
+- **#10 (apply for a fellowship)** — applications are private; the [archetype file](./archetypes/10-fellowship-application.md) lists the ten most-cited AI-safety / AI-governance fellowships with fit notes.
 
 If you build a v1 of any archetype, open a PR to [`CHANGELOG.md`](./CHANGELOG.md)
 and I'll link to it from the menu. That's how this menu gets longer and
@@ -120,7 +126,7 @@ facilitator handing it off to *your* cohort, see
 fork and adapt without asking.
 
 It's deliberately opinionated and first-person — a hand-off, not a balanced
-catalog. The eight archetypes are the moves I've watched actually work for
+catalog. The eleven archetypes are the moves I've watched actually work for
 cohort members, written with honest tradeoffs about which one fits whom. Real
 artifacts back most of them (see [`examples/`](./examples/)).
 
