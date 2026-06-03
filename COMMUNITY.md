@@ -12,7 +12,7 @@ using this playbook.
 > For questions about the playbook itself, email the maintainer at
 > **info@techne.ai**.
 
-## Facilitator office hours (a pattern)
+## Facilitator office hours
 
 A recurring call for facilitators using this playbook is the kind of forum
 where it gets sharper over time — trading what's working and what isn't
@@ -62,7 +62,7 @@ shared call). People who couldn't attend catch up by reading the recaps in
 reverse chronological order; the issue thread also doubles as a searchable
 archive.
 
-## WhatsApp groups (a pattern)
+## WhatsApp groups
 
 For a faster-than-email asynchronous channel between calls, WhatsApp works
 well — high open rates, low friction. Useful for:

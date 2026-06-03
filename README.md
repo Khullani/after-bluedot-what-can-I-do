@@ -77,7 +77,7 @@ The playbook goes inside that note, not as a separate email.
 | 1 | [Legislative/regulatory tracker](./archetypes/01-legislative-tracker.md) | Map a jurisdiction's AI laws into something legible | 4–8 weeks |
 | 2 | [Local salon / reading group](./archetypes/02-local-salon.md) | Run a 4–6 week course for 4–6 senior practitioners near you | 6–10 weeks |
 | 3 | [Policy memo for a specific stakeholder](./archetypes/03-policy-memo.md) | One named decision-maker, one decision, two pages | 2–4 weeks |
-| 4 | [Landscape doc on an under-covered topic](./archetypes/04-landscape-research.md) | A public writeup that fills a gap nobody else has filled | 4–10 weeks |
+| 4 | [Landscape doc on an under-covered topic](./archetypes/04-landscape-research.md) | A public writeup that fills a gap nobody else has filled | 8–12 weeks |
 | 5 | [Op-ed / public writing](./archetypes/05-op-ed.md) | One published piece in an outlet your stakeholders read | 3–6 weeks |
 | 6 | [Public comment / regulatory submission](./archetypes/06-public-comment.md) | Respond to an open RFC, NIST draft, or agency notice | 2–4 weeks |
 | 7 | [Convening / panel / workshop](./archetypes/07-convening.md) | Get the right 8 people in a room for 90 minutes | 4–8 weeks |
@@ -88,14 +88,17 @@ The playbook goes inside that note, not as a separate email.
 Real artifacts for six of the eight archetypes — see [`examples/`](./examples/)
 for case studies:
 
-- **#1** — [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) (legislative tracker)
-- **#2** — [agi-strategy-government](https://github.com/Khullani/agi-strategy-government) (Chicago salon)
-- **#3** — no public example (memos and staff bill analyses are usually private through active negotiation)
-- **#4** — [AI Safety Chicago white paper](./examples/04-landscape-doc.md) (convening-driven landscape doc, draft)
-- **#5** — [Crain's Chicago Business op-ed](./examples/05-op-ed.md) (March 30, 2026)
-- **#6** — [Illinois written testimony](./examples/06-public-comment.md) (co-located with the tracker)
-- **#7** — [AI Safety Chicago](./examples/07-convening.md) (recurring series, co-hosted with BlueDot Impact)
-- **#8** — Apply via BlueDot's facilitator pipeline; see archetype #2 for the local-adaptation route.
+- **#1** — [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) (legislative tracker, live)
+- **#2** — [agi-strategy-government](https://github.com/Khullani/agi-strategy-government) (Chicago salon, 5 weeks)
+- **#4** — [DNA synthesis landscape document](./examples/04-landscape-doc.md) (field-building, published by BlueDot Impact)
+- **#5** — [Crain's Chicago Business op-ed](./examples/05-op-ed.md) (published March 30, 2026)
+- **#6** — [Illinois written testimony](./examples/06-public-comment.md) (filed, co-located with the tracker)
+- **#7** — [AI Safety Chicago](./examples/07-convening.md) (debate series, recurring, co-hosted with BlueDot Impact)
+
+**No public example for #3 and #8, by design:**
+
+- **#3 (policy memo)** — memos and bill analyses are usually private through active negotiation; use the [`one-pager.md`](./templates/one-pager.md) and [`staff-bill-analysis.md`](./templates/staff-bill-analysis.md) templates instead.
+- **#8 (facilitate next cohort)** — apply via [BlueDot's facilitator pipeline](https://bluedot.org/courses/facilitator-training); for the local-adaptation route, archetype #2 (salon) is the lighter-weight version.
 
 If you build a v1 of any archetype, open a PR to [`CHANGELOG.md`](./CHANGELOG.md)
 and I'll link to it from the menu. That's how this menu gets longer and

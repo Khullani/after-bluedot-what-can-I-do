@@ -63,15 +63,12 @@ at least two participants reply that they'd attend the next one.
 
 [`examples/07-convening.md`](../examples/07-convening.md) — **AI Safety
 Chicago** ([luma.com/ais-chicago](https://luma.com/ais-chicago)),
-co-hosted by Techne AI and BlueDot Impact. First of a recurring series.
-~120 attendees from Chicago universities and regulatory/legal employers,
-each event producing a white paper. The named output (the white paper)
-is what separates this from a meetup; the recurring format is what lets
-the outputs compound.
-
-This is also the canonical **#7 (convening) → #4 (landscape doc)
-combination** named in
-[`PLAYBOOK.md`](../PLAYBOOK.md#combinations-that-work).
+a debate series co-hosted by Techne AI and BlueDot Impact. ~120
+attendees from Chicago universities and regulatory/legal employers,
+each debate sized to surface real disagreement rather than choreographed
+agreement. The debate format is what separates this from a meetup; the
+recurring series is what lets the output compound — a white paper
+follow-up to each debate is planned (first one in draft).
 
 External convening traditions worth studying: Chatham House and Carnegie
 — what they do at scale you can do for 8 people in your city. Local

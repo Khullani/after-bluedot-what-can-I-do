@@ -47,7 +47,7 @@ in the existing archetype files. -->
 
 ## What needs to come with this if you commit to writing it
 
-If we move forward, the PR adds:
+If I think it's a fit, the PR adds:
 
 - [ ] `archetypes/0N-<slug>.md` in the same structure as the existing
       archetype files
@@ -56,4 +56,4 @@ If we move forward, the PR adds:
 - [ ] Updates to the menu table in `README.md` and `PLAYBOOK.md`
 - [ ] An entry in `CHANGELOG.md`
 
-I'll respond on this issue with editorial feedback before we move to a PR.
+I'll respond on this issue with editorial feedback before opening a PR.

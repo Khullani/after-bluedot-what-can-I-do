@@ -67,7 +67,7 @@ share your reflections.
 
 ## Maintaining hope and optimism
 
-In this course we focus on the things that could go wrong so we can
+In this course I focused on the things that could go wrong so you can
 prepare for them. But you also need a positive vision of the world
 to work toward, and a way to keep that vision alive when the
 material gets heavy.
@@ -88,7 +88,7 @@ circumstances who found a way:
 Plus poetry as a genre, and science fiction as an operating manual.
 
 The reason this matters for AI governance is that the field can
-become abstract very quickly. These books pull us back toward
+become abstract very quickly. These books pull you back toward
 lived experience: fear, coercion, adaptation, courage, institutional
 failure, propaganda, scarcity, and moral choice under pressure.
 
@@ -108,7 +108,7 @@ forgotten what you promised:
 - **[Name]** — [same]
 - **[Name]** — [same]
 
-I'll be asking about each of these over the coming months. :eyes:
+I'll be asking about each of these over the coming months. 👀
 
 ## Celebrations
 

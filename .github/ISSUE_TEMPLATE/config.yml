@@ -1,11 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Facilitator office hours
-    url: https://github.com/Khullani/after-bluedot-what-can-I-do/blob/main/COMMUNITY.md#facilitator-office-hours
-    about: Monthly (then quarterly) call for facilitators using this playbook. See COMMUNITY.md for cadence and signup.
-  - name: Facilitator WhatsApp group
-    url: https://github.com/Khullani/after-bluedot-what-can-I-do/blob/main/COMMUNITY.md#whatsapp-groups
-    about: Faster-than-email channel for facilitators. Request access via the cohort-entry issue or email.
+  - name: Community patterns (office hours, WhatsApp)
+    url: https://github.com/Khullani/after-bluedot-what-can-I-do/blob/main/COMMUNITY.md
+    about: Templates and guidance for facilitators who want to set up community around their own cohorts. Not a live channel.
   - name: Read CONTRIBUTING.md first
     url: https://github.com/Khullani/after-bluedot-what-can-I-do/blob/main/CONTRIBUTING.md
     about: The five kinds of contribution, the voice contract, and what won't get merged.
