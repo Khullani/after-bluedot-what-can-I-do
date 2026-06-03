@@ -1,7 +1,7 @@
 # Examples
 
 Real artifacts from cohorts I've facilitated and from my own post-BlueDot
-work. Each is a concrete instance of one of the eight archetypes in
+work. Each is a concrete instance of one of the eleven archetypes in
 [`../PLAYBOOK.md`](../PLAYBOOK.md). The case studies are short — what was
 shipped, who got it, and what happened.
 
@@ -17,6 +17,9 @@ If you used the playbook and shipped something, open a PR to add it here.
 | 6 | Public comment / testimony | [`06-public-comment.md`](./06-public-comment.md) — Illinois testimony | Filed |
 | 7 | Convening | [`07-convening.md`](./07-convening.md) — AI Safety Chicago (debate series, with BlueDot Impact) | Recurring; white paper planned |
 | 8 | Facilitate next cohort | Apply via BlueDot's facilitator pipeline; see archetype #2 example for the local-adaptation route | n/a by design |
+| 9 | Apply for a specific role | Applications are private — see [`jobs.80000hours.org`](https://jobs.80000hours.org/) for the canonical board | n/a by design |
+| 10 | Apply for a fellowship | Applications are private — see [archetype #10](../archetypes/10-fellowship-application.md) for the ten most-cited fellowships | n/a by design |
+| 11 | Substack | [`11-substack.md`](./11-substack.md) — Heterotopia AI ("Parrhesia, Praxis, and Poetry") | Published |
 
 ## What's in this folder
 

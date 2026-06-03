@@ -176,6 +176,43 @@ in your own cohort.
 **Bad if** you're doing it because it feels safe and familiar rather than
 because it's the best fit. Facilitating is real work, not a default.
 
+### 9. Apply for a specific role → [details](./archetypes/09-job-application.md)
+
+**Good if** you can name the org and the role, you have 4 weeks for a
+focused application, and you have at least one piece of prior work that
+maps to the JD. One well-prepared application beats five hurried ones.
+**Bad if** you're applying out of inertia or "AI safety" is your filter
+rather than a specific org. Without specificity the cover letter reads
+generic and the application competes with people who did the work.
+
+Where to look: [`jobs.80000hours.org`](https://jobs.80000hours.org/).
+
+### 10. Apply for a fellowship → [details](./archetypes/10-fellowship-application.md)
+
+**Good if** a specific fellowship's focus, timing, and location match
+your trajectory. Fellowships are the single biggest force multiplier
+post-course, and the application itself — done well — is a finishable
+archetype on its own.
+**Bad if** you're applying because it sounds prestigious. Fellowships
+are commitments; the application is real work, and the bar is roughly
+the bar for a strong memo or landscape doc.
+
+The archetype file lists the ten most-cited fellowships (MATS, GovAI,
+ERA, AI Safety Camp, IAPS, ARENA, Talos, Apart, Pivotal, SPAR) with
+fit notes for each.
+
+### 11. Substack — weekly post for four weeks → [details](./archetypes/11-substack.md)
+
+**Good if** you finish the course with strong intuitions you can't yet
+defend under pressure. Writing is how you find out what you actually
+think. Four weeks of weekly posts is enough discipline to find out
+without committing to a year of sustained publishing.
+**Bad if** you're hoping to "build an audience." That's a different
+commitment. Use this for the thinking, not for the readers — polishing
+will kill the cadence.
+
+Example: [Heterotopia AI Substack — "Parrhesia, Praxis, and Poetry"](https://heterotopiaai.substack.com/p/parrhesia-praxis-and-poetry-ai-governances).
+
 ## If you only do one thing
 
 If you have less than four hours a week and want the highest expected
@@ -200,6 +237,13 @@ for a second:
   the comment uses it to make a specific argument with citations.
 - **#2 (salon) → #8 (facilitate next cohort)** — the local salon is your
   apprenticeship for facilitating a full BlueDot cohort.
+- **#4 (landscape doc) or #5 (op-ed) → #9 (job application) or #10
+  (fellowship application)** — the published artifact is the portfolio
+  piece that makes your application non-generic. Don't apply without
+  one of these first if you don't have prior public work.
+- **Any archetype → #11 (Substack)** — the four-week post cadence is a
+  reflection structure for whatever you shipped. One post per week, each
+  pulling at a different thread from the v1.
 
 ## Write while you do
 
@@ -223,6 +267,10 @@ posted as-is. Cohort members who picked one of the archetypes *and*
 started writing have, without exception, gotten more interesting
 opportunities than ones who only did the archetype.
 
+*Want to formalize this as the archetype itself rather than a side
+practice? See [archetype #11 (Substack — weekly post for four weeks)](./archetypes/11-substack.md),
+which makes the cadence the deliverable.*
+
 ## What this menu doesn't include, on purpose
 
 A few things I get asked about that I deliberately left off:
@@ -232,9 +280,12 @@ A few things I get asked about that I deliberately left off:
   haven't done enough customer discovery to know if it's the right move
   yet. Do a memo or a landscape doc first; the startup question becomes
   much clearer.
-- **"Apply to AI safety jobs."** Career moves are an output of doing one
-  of these archetypes, not an alternative. A landscape doc or a published
-  op-ed is the artifact that makes your application non-generic.
+- **"Apply broadly to AI safety jobs as a strategy."** Applying to *one*
+  specific role is archetype #9 — a finishable, well-scoped application
+  with its own bar. Treating the open-ended job-hunt as your post-course
+  plan is what this menu still leaves off. A landscape doc, op-ed, or
+  memo is the artifact that makes any application non-generic — pick
+  one of those first if you don't have one yet.
 - **"Build community."** Too vague. Pick #2 or #7.
 
 ## Cohort records
