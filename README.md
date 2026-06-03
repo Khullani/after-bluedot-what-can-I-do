@@ -74,7 +74,7 @@ The playbook goes inside that note, not as a separate email.
 
 | # | Archetype | One-line | Time to v1 |
 |---|-----------|----------|------------|
-| 1 | [Legislative/regulatory tracker](./archetypes/01-legislative-tracker.md) | Map a jurisdiction's AI laws into something legible | 4–8 weeks |
+| 1 | [Legislative / regulatory tracker](./archetypes/01-legislative-tracker.md) | Map a jurisdiction's AI laws into something legible | 4–8 weeks |
 | 2 | [Local salon / reading group](./archetypes/02-local-salon.md) | Run a 4–6 week course for 4–6 senior practitioners near you | 6–10 weeks |
 | 3 | [Policy memo for a specific stakeholder](./archetypes/03-policy-memo.md) | One named decision-maker, one decision, two pages | 2–4 weeks |
 | 4 | [Landscape doc on an under-covered topic](./archetypes/04-landscape-research.md) | A public writeup that fills a gap nobody else has filled | 8–12 weeks |

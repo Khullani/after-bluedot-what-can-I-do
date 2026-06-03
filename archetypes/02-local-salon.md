@@ -1,4 +1,4 @@
-# Archetype 2: Local Salon / Reading Group
+# Archetype 2: Local salon / reading group
 
 > Run a 4–6 week course for 4–6 senior practitioners in your city, on a topic
 > you adapted from the BlueDot curriculum.

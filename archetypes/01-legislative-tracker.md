@@ -1,4 +1,4 @@
-# Archetype 1: Legislative / Regulatory Tracker
+# Archetype 1: Legislative / regulatory tracker
 
 > Map a specific jurisdiction's AI laws into something the people who work in
 > that jurisdiction can actually use.

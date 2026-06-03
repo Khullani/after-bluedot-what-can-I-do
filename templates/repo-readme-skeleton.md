@@ -62,4 +62,4 @@ contribute upstream."]
 
 [Who helped, who inspired this, the cohort it came out of. The
 hand-off note: "This project came out of my BlueDot Impact Frontier
-AI Governance cohort, facilitated by Khullani Abdullahi."]
+AI Governance cohort, facilitated by [your facilitator's name]."]

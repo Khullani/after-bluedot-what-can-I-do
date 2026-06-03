@@ -1,4 +1,4 @@
-# Archetype 6: Public Comment / Regulatory Submission
+# Archetype 6: Public comment / regulatory submission
 
 > Respond to an open RFC, NIST draft, agency notice, or rulemaking comment
 > period in your area of interest.

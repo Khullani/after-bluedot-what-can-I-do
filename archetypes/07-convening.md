@@ -1,4 +1,4 @@
-# Archetype 7: Convening / Panel / Workshop
+# Archetype 7: Convening / panel / workshop
 
 > Get the right eight people in a room for ninety minutes, with a specific
 > output in mind.
@@ -70,8 +70,10 @@ agreement. The debate format is what separates this from a meetup; the
 recurring series is what lets the output compound — a white paper
 follow-up to each debate is planned (first one in draft).
 
-External convening traditions worth studying: Chatham House and Carnegie
-— what they do at scale you can do for 8 people in your city. Local
+External convening traditions worth studying: **Chatham House** (the rule
+that everything is on record, nothing attributed) and **Carnegie** (the
+Endowment's small working-group format with a named output) — what they
+do at scale you can do for 8 people in your city. Local
 shapes: a 90-minute working session with state legislators' staff before
 a vote; a workshop with 3 reporters and 3 researchers before a major
 paper drops.
