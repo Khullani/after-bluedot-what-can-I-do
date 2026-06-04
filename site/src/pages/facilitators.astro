@@ -2,9 +2,9 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getEntry, render } from 'astro:content';
 
-const facilitating = await getEntry('pages', 'FACILITATING');
-const community = await getEntry('pages', 'COMMUNITY');
-if (!facilitating || !community) throw new Error('FACILITATING or COMMUNITY page entry not found');
+const facilitating = await getEntry('pages', 'facilitating');
+const community = await getEntry('pages', 'community');
+if (!facilitating || !community) throw new Error('facilitating or community page entry not found');
 
 const { Content: FacilitatingContent } = await render(facilitating);
 const { Content: CommunityContent } = await render(community);
