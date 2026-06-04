@@ -93,10 +93,14 @@ applies cleanly to all four.
 | 10 | [Apply for a fellowship](./archetypes/10-fellowship-application.md) | Pick one fellowship that fits your trajectory; treat the application as an archetype | 3–6 weeks | ALL |
 | 11 | [Substack — weekly post for four weeks](./archetypes/11-substack.md) | Four posts in four weeks; clear writing is clear thinking | 4 weeks | ALL |
 | 12 | [Draft a bill (for a willing sponsor)](./archetypes/12-bill-drafting.md) | Statutory text drafted for a sponsor who'll introduce it — highest leverage when the gap is real, highest bar to ship | 12–24 weeks | FAIG, AGIS, BIOS |
+| 13 | [1:1 outreach](./archetypes/13-one-on-one-outreach.md) | Cold emails + scheduled meetings with a named list of 8–12 people | 6 weeks | ALL |
+| 14 | [Networking events](./archetypes/14-networking-events.md) | Show up at the right events with named-person targets; leave with N qualified follow-ups | 2 events | ALL |
+| 15 | [Local chapter / reading group](./archetypes/15-local-chapter.md) | Open-membership group at your campus or city — sustained past month 3 | 12 weeks | ALL |
+| 16 | [Technical follow-up project](./archetypes/16-technical-follow-up.md) | One figure or method reproduced + 1,500-word writeup of what broke | 6–8 weeks | TAIS, AGIS |
 
 ## Live examples
 
-Real artifacts for eight of the twelve archetypes — see [`examples/`](./examples/)
+Real artifacts for eight of the sixteen archetypes — see [`examples/`](./examples/)
 for case studies:
 
 - **#1** — [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) (legislative tracker, live)
@@ -114,6 +118,11 @@ for case studies:
 - **#8 (facilitate next cohort)** — apply via [BlueDot's facilitator pipeline](https://bluedot.org/courses/facilitator-training); for the local-adaptation route, archetype #2 (salon) is the lighter-weight version.
 - **#9 (apply for a specific role)** — applications are private; the canonical job board is [`jobs.80000hours.org`](https://jobs.80000hours.org/).
 - **#10 (apply for a fellowship)** — applications are private; the [archetype file](./archetypes/10-fellowship-application.md) lists the ten most-cited AI-safety / AI-governance fellowships with fit notes.
+
+**No example yet for #13, #14, #15, and #16 — pending future cohort ships v1:**
+
+- **#13 (1:1 outreach), #14 (networking events), #15 (local chapter)** — practices and ongoing patterns rather than single artifacts; the archetype file gives the v1 shape.
+- **#16 (technical follow-up)** — partial replication + writeup is the v1; first example will land when a TAIS-track cohort member ships one.
 
 If you build a v1 of any archetype, open a PR to [`CHANGELOG.md`](./CHANGELOG.md)
 and I'll link to it from the menu. That's how this menu gets longer and
@@ -139,7 +148,7 @@ handing it off to *your* cohort, see
 license means you can fork and adapt without asking.
 
 It's deliberately opinionated and first-person — a hand-off, not a balanced
-catalog. The twelve archetypes are the moves I've watched actually work for
+catalog. The sixteen archetypes are the moves I've watched actually work for
 cohort members, written with honest tradeoffs about which one fits whom. Real
 artifacts back most of them (see [`examples/`](./examples/)).
 

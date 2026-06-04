@@ -253,6 +253,54 @@ near a legislative office, partner with someone who has.
 Example: [IL HB5760 — AI Work Transition Commission](https://www.billtrack50.com/billdetail/2002509)
 (sponsor: Rep. du Buclet; introduced April 30, 2026).
 
+### 13. 1:1 outreach → [details](./archetypes/13-one-on-one-outreach.md)
+
+*Best fit for: ALL.*
+
+**Good if** you have prior work to point at (a memo, an op-ed, a
+tracker, a Substack post) and you can name 8–12 specific people who'd
+be valuable to talk to. Outreach with an artifact compounds; outreach
+without one is noise. This is the archetype to run **while you wait
+for decisions** on jobs (#9) or fellowships (#10).
+**Bad if** you have nothing to show yet, or you'd send the same email
+to 50 people. Generic outreach destroys your name on those lists.
+
+### 14. Networking events → [details](./archetypes/14-networking-events.md)
+
+*Best fit for: ALL.*
+
+**Good if** there's a relevant event in your calendar window (EAG, a
+research workshop, a virtual meetup, a townhall) and you can name 3–5
+people you want to meet there. The event is the room; the follow-up is
+the artifact.
+**Bad if** you're attending out of FOMO, or you'd skip the 48-hour
+follow-up email. Without follow-up, networking is entertainment.
+
+### 15. Local chapter / reading group → [details](./archetypes/15-local-chapter.md)
+
+*Best fit for: ALL.*
+
+**Good if** you can credibly host a recurring meeting at your campus,
+city, or workplace, and you can identify a successor co-organiser from
+week one. Chapters compound when they survive past month 3 — that's
+when the chapter either crystallises into a recruiting ground for
+salons and convenings, or fades.
+**Bad if** you'd be the only organiser with no successor, or you'd
+take it on because no senior practitioners said yes to archetype #2
+(salon). Different shapes, different audiences — chapter is not a
+consolation prize.
+
+### 16. Technical follow-up project → [details](./archetypes/16-technical-follow-up.md)
+
+*Best fit for: TAIS (primary), AGIS (secondary).*
+
+**Good if** you can name one specific paper whose figure or method
+you want to partially reproduce in six weeks, and you have the
+technical baseline to start running experiments in week one. Partial
+replication + 1,500-word writeup of what broke is the v1.
+**Bad if** you can't name the paper, or you'd aim for a full
+reimplementation. Setup creep eats the timeline; partial is the v1.
+
 ## If you only do one thing
 
 If you have less than four hours a week and want the highest expected
@@ -291,6 +339,24 @@ for a second:
 - **#12 (bill) → #6 (public comment)** — when a bill passes, the
   agencies named in it produce rulemaking. Your next archetype is
   comments on that rulemaking, with the bill as your standing.
+- **#13 (1:1 outreach) or #14 (networking events) → #9 (job) or #10
+  (fellowship)** — outreach and event attendance build the informal
+  endorsements, references, and inside knowledge that turn applications
+  from generic into competitive. Build the network *before* the
+  application deadline arrives.
+- **#15 (local chapter) → #2 (salon) or #7 (convening) or #8
+  (facilitate next cohort)** — the chapter is the funnel. Its most
+  engaged regulars graduate into the concentrated rooms (salon),
+  produce a structured deliverable (convening), or become facilitators
+  themselves.
+- **#16 (tech follow-up) → #5 (op-ed) or #11 (Substack)** — the
+  technical writeup is substantive content for public writing. A
+  Substack run consolidates what the replication taught you; an op-ed
+  is for the unusual cases where a notable reproduction (or failure
+  to reproduce) lands a sharp public claim.
+- **#16 (tech follow-up) → #10 (fellowship)** — the replication is the
+  portfolio piece that makes a MATS / ARENA / SPAR / Apart application
+  non-generic.
 
 ## Write while you do
 
