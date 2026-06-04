@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const templates = await getCollection('templates');
+  return templates.map((template) => ({
+    params: { slug: template.id.replace(/\.md$/, '') },
+    props: { template },
+  }));
+};
+
+const { template } = Astro.props;
+const { Content } = await render(template);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const displayName = template.id
+  .replace(/\.md$/, '')
+  .replace(/-/g, ' ')
+  .replace(/\b\w/g, (c) => c.toUpperCase());
+---
+
+<BaseLayout title={displayName} description="A scaffold from the playbook.">
+  <article>
+    <Content />
+    <p style="margin-top: 3rem;">
+      <a href={`${base}/templates`} class="cta cta-secondary">← All templates</a>
+    </p>
+  </article>
+</BaseLayout>

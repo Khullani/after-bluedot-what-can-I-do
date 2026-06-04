@@ -1,3 +1,15 @@
+---
+number: 13
+title: "1:1 outreach"
+oneLine: "Cold emails + scheduled meetings with a named list of 8–12 people"
+timeToV1: "6 weeks"
+timeBucket: "4-8"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/salon-invitation-email.md", "templates/op-ed-pitch.md"]
+exampleStatus: "pending"
+example: null
+---
+
 # Archetype 13: 1:1 outreach
 
 > Cold emails and scheduled meetings with a named list of 8–12 people you want feedback or visibility from.

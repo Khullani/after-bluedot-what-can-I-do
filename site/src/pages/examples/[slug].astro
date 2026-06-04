@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const examples = await getCollection('examples');
+  return examples.map((example) => ({
+    params: { slug: example.id.replace(/\.md$/, '') },
+    props: { example },
+  }));
+};
+
+const { example } = Astro.props;
+const { Content } = await render(example);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title={example.data.title} description={`Archetype #${example.data.archetype} — ${example.data.status}`}>
+  <article>
+    <p style="font-family: var(--font-sans); font-size: 0.8125rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0 0 0.5rem 0;">
+      Archetype #{example.data.archetype}
+    </p>
+    <div class="meta-bar">
+      <span class="meta-item"><strong>Status:</strong> {example.data.status}</span>
+      <span class="meta-item"><strong>Primary link:</strong> <a href={example.data.link}>{example.data.link}</a></span>
+    </div>
+    <Content />
+    <p style="margin-top: 3rem;">
+      <a href={`${base}/menu/0${example.data.archetype}`.replace(/\/0([0-9]{2})$/, '/$1')} class="cta cta-secondary">← Back to archetype #{example.data.archetype}</a>
+    </p>
+  </article>
+</BaseLayout>

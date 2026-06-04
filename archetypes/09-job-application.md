@@ -1,3 +1,15 @@
+---
+number: 9
+title: "Apply for a specific role"
+oneLine: "One named role at one named org, with the same investment you'd give a memo"
+timeToV1: "4 weeks"
+timeBucket: "4-8"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: []
+exampleStatus: "n/a-by-design"
+example: null
+---
+
 # Archetype 9: Apply for a specific role
 
 > One named role at one named organization, with the same investment you'd give a memo.

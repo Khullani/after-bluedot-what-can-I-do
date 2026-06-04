@@ -1,3 +1,15 @@
+---
+number: 5
+title: "Op-ed / public writing"
+oneLine: "One published piece in an outlet your stakeholders read"
+timeToV1: "3–6 weeks"
+timeBucket: "4-8"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/op-ed-skeleton.md", "templates/op-ed-pitch.md"]
+exampleStatus: "live"
+example: "examples/05-op-ed.md"
+---
+
 # Archetype 5: Op-ed / public writing
 
 > One published piece in an outlet your stakeholders read.

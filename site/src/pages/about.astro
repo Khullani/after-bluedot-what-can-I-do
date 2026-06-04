@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+
+const entry = await getEntry('pages', 'CONTRIBUTING');
+if (!entry) throw new Error('CONTRIBUTING page entry not found');
+const { Content } = await render(entry);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title="About" description="About the playbook and how to contribute.">
+  <h1>About</h1>
+  <p class="lede">
+    This playbook started as the closing note Khullani Abdullahi sends her own
+    cohorts 1–2 days after the last session of the BlueDot Impact Frontier AI
+    Governance course she facilitates. It grew into a menu because <em>"stay
+    engaged with the field"</em> is not a project.
+  </p>
+  <p>
+    It's written for any BlueDot alum — AGI Strategy, Biosecurity, Frontier
+    AI Governance, or Technical AI Safety — and it's a <em>living document</em>:
+    facilitators and alumni extend it as new cohorts ship new work.
+  </p>
+  <p>
+    Maintained by <strong>Khullani Abdullahi</strong> (Techne AI, Chicago).
+    License: <a href="https://github.com/Khullani/after-bluedot-what-can-I-do/blob/main/LICENSE">CC BY 4.0</a> —
+    fork it, adapt it, run it for your own cohorts. Attribution appreciated, not required.
+  </p>
+  <h2>How to contribute</h2>
+  <Content />
+</BaseLayout>

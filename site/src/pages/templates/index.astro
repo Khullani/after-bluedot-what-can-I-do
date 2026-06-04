@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const templates = (await getCollection('templates')).sort((a, b) =>
+  a.id.localeCompare(b.id)
+);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title="Templates" description="Scaffolds so you don't start from a blank page — one per archetype that uses one.">
+  <h1>Templates</h1>
+  <p class="lede">
+    Scaffolds for the archetypes that use them. Copy what you need; the
+    skeleton is the same one the maintainer uses in the wild.
+  </p>
+
+  <ul style="list-style: none; padding: 0;">
+    {templates.map((template) => {
+      const slug = template.id.replace(/\.md$/, '');
+      const displayName = slug
+        .replace(/-/g, ' ')
+        .replace(/\b\w/g, (c) => c.toUpperCase());
+      return (
+        <li style="border-bottom: 1px solid var(--rule); padding: 1.25rem 0; font-family: var(--font-sans);">
+          <h3 style="margin: 0 0 0.25rem 0;">
+            <a href={`${base}/templates/${slug}`}>{displayName}</a>
+          </h3>
+          <p style="margin: 0; font-size: 0.875rem; color: var(--muted);">
+            <code>templates/{template.id}</code>
+          </p>
+        </li>
+      );
+    })}
+  </ul>
+
+  <p style="margin-top: 3rem; font-family: var(--font-sans); font-size: 0.875rem; color: var(--muted);">
+    <em>Copy-to-clipboard and download buttons land in a follow-up pass —
+    see the <a href="https://github.com/Khullani/after-bluedot-what-can-I-do/blob/main/site/TODO.md">site TODO</a>.</em>
+  </p>
+</BaseLayout>

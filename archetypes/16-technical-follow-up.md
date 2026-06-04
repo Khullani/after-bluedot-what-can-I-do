@@ -1,3 +1,15 @@
+---
+number: 16
+title: "Technical follow-up project"
+oneLine: "One figure or method reproduced + 1,500-word writeup of what broke"
+timeToV1: "6–8 weeks"
+timeBucket: "4-8"
+courses: ["TAIS", "AGIS"]
+templates: ["templates/landscape-doc-skeleton.md", "templates/project-brief.md"]
+exampleStatus: "pending"
+example: null
+---
+
 # Archetype 16: Technical follow-up project
 
 > One figure or method reproduced from a key paper, plus a 1,500-word writeup of what broke.

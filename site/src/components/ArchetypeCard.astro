@@ -1,0 +1,29 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  archetype: CollectionEntry<'archetypes'>;
+}
+
+const { archetype } = Astro.props;
+const { number, title, oneLine, timeToV1, courses, exampleStatus } = archetype.data;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const slug = archetype.id.replace(/\.md$/, '');
+
+const courseLabel = courses.length === 4 ? 'ALL' : courses.join(', ');
+const statusChip =
+  exampleStatus === 'live' ? { cls: 'chip-live', text: '✓ live example' } :
+  exampleStatus === 'pending' ? { cls: 'chip-pending', text: 'example pending' } :
+  { cls: 'chip-private', text: 'no example by design' };
+---
+
+<a href={`${base}/menu/${slug}`} class="card">
+  <div class="card-num">Archetype {number}</div>
+  <div class="card-title">{title}</div>
+  <p class="card-oneline">{oneLine}</p>
+  <div class="card-meta">
+    <span class="chip chip-time">{timeToV1}</span>
+    <span class="chip chip-course">{courseLabel}</span>
+    <span class={`chip ${statusChip.cls}`}>{statusChip.text}</span>
+  </div>
+</a>

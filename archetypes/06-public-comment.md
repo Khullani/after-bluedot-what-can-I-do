@@ -1,3 +1,15 @@
+---
+number: 6
+title: "Public comment / regulatory submission"
+oneLine: "Respond to an open RFC, NIST draft, or agency notice"
+timeToV1: "2–4 weeks"
+timeBucket: "0-4"
+courses: ["FAIG", "AGIS", "BIOS"]
+templates: ["templates/public-comment-skeleton.md", "templates/project-brief.md"]
+exampleStatus: "live"
+example: "examples/06-public-comment.md"
+---
+
 # Archetype 6: Public comment / regulatory submission
 
 > Respond to an open RFC, NIST draft, agency notice, or rulemaking comment

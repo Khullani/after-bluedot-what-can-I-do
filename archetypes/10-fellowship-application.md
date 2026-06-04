@@ -1,3 +1,15 @@
+---
+number: 10
+title: "Apply for a fellowship"
+oneLine: "Pick one fellowship that fits your trajectory; treat the application as an archetype"
+timeToV1: "3–6 weeks"
+timeBucket: "4-8"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: []
+exampleStatus: "n/a-by-design"
+example: null
+---
+
 # Archetype 10: Apply for a fellowship
 
 > Pick one fellowship that matches your trajectory. Apply seriously. Treat the application like an archetype, not a backup plan.

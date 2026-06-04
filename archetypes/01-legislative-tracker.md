@@ -1,3 +1,15 @@
+---
+number: 1
+title: "Legislative / regulatory tracker"
+oneLine: "Map a jurisdiction's AI laws into something legible"
+timeToV1: "4–8 weeks"
+timeBucket: "4-8"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/repo-readme-skeleton.md", "templates/project-brief.md"]
+exampleStatus: "live"
+example: "https://github.com/Khullani/illinois-AI-laws"
+---
+
 # Archetype 1: Legislative / regulatory tracker
 
 > Map a specific jurisdiction's AI laws into something the people who work in

@@ -1,3 +1,15 @@
+---
+number: 14
+title: "Networking events"
+oneLine: "Show up at the right events with named-person targets; leave with N qualified follow-ups"
+timeToV1: "2 events"
+timeBucket: "per-event"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/project-brief.md"]
+exampleStatus: "pending"
+example: null
+---
+
 # Archetype 14: Networking events
 
 > Show up at the right events with named-person targets and structured pre-work; leave with N qualified follow-ups.

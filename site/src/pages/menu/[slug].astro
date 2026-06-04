@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const archetypes = await getCollection('archetypes');
+  return archetypes.map((archetype) => ({
+    params: { slug: archetype.id.replace(/\.md$/, '') },
+    props: { archetype },
+  }));
+};
+
+const { archetype } = Astro.props;
+const { Content } = await render(archetype);
+const { number, title, oneLine, timeToV1, courses, templates, exampleStatus } = archetype.data;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const courseLabel = courses.length === 4 ? 'all four BlueDot courses' : courses.join(', ');
+---
+
+<BaseLayout title={`#${number} — ${title}`} description={oneLine}>
+  <article class="archetype-detail">
+    <div class="meta-bar">
+      <span class="meta-item"><strong>Time to v1:</strong> {timeToV1}</span>
+      <span class="meta-item"><strong>Best fit for:</strong> {courseLabel}</span>
+      <span class="meta-item">
+        <strong>Example:</strong>{' '}
+        {exampleStatus === 'live' && 'live'}
+        {exampleStatus === 'pending' && 'pending (no v1 shipped yet)'}
+        {exampleStatus === 'n/a-by-design' && 'private by design'}
+      </span>
+    </div>
+
+    <Content />
+
+    {templates.length > 0 && (
+      <p style="margin-top: 2rem;">
+        <a href={`${base}/templates`} class="cta">Grab the matching template →</a>
+      </p>
+    )}
+  </article>
+</BaseLayout>

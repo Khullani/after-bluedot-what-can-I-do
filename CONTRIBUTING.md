@@ -50,7 +50,10 @@ sounds good in theory; propose what you've seen at least one person
 actually ship. Open an issue first describing the archetype, who it's
 for, and the v1 you saw. If I think it belongs on the menu, the next
 step is a PR adding the archetype detail file and at least one example.
-Friction: moderate-to-high.
+**New archetype files require front matter** — see
+[`site/README.md`](./site/README.md) for the schema (number, title,
+oneLine, timeToV1, timeBucket, courses, templates, exampleStatus,
+example). Without it the site build fails. Friction: moderate-to-high.
 
 **5. Add an appendix or framework.** The appendix in `PLAYBOOK.md`
 (a reading list for staying grounded) is facilitator-specific material

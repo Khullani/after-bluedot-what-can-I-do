@@ -1,3 +1,14 @@
+---
+title: "AI legislation must focus on biggest risks"
+archetype: 5
+status: "Published"
+publishedDate: "2026-03-30"
+outlet: "Crain's Chicago Business"
+byline: "Khullani Abdullahi, CEO of Techne AI in Chicago"
+link: "https://www.chicagobusiness.com/opinion/commentary/ccb-opinion-ai-legislation-20260330/"
+maintainerArtifact: true
+---
+
 # Example — Op-ed / public writing
 
 > Archetype #5.

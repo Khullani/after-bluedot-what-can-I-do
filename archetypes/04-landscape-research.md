@@ -1,3 +1,15 @@
+---
+number: 4
+title: "Landscape doc on an under-covered topic"
+oneLine: "A public writeup that fills a gap nobody else has filled"
+timeToV1: "8–12 weeks"
+timeBucket: "8-12"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/landscape-doc-skeleton.md", "templates/project-brief.md"]
+exampleStatus: "live"
+example: "examples/04-landscape-doc.md"
+---
+
 # Archetype 4: Landscape doc on an under-covered topic
 
 > A public writeup that fills a gap in the literature nobody else has filled.
