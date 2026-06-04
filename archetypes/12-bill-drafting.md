@@ -1,3 +1,15 @@
+---
+number: 12
+title: "Draft a bill (for a willing sponsor)"
+oneLine: "Statutory text drafted for a sponsor who'll introduce it"
+timeToV1: "12–24 weeks"
+timeBucket: "12+"
+courses: ["FAIG", "AGIS", "BIOS"]
+templates: []
+exampleStatus: "live"
+example: "examples/12-bill-drafting.md"
+---
+
 # Archetype 12: Draft a bill (for a willing sponsor)
 
 > Statutory text drafted for a sponsor who'll introduce it.

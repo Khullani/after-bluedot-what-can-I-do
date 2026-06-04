@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import ArchetypeCard from '../components/ArchetypeCard.astro';
+
+const archetypes = (await getCollection('archetypes')).sort(
+  (a, b) => a.data.number - b.data.number
+);
+const featured = archetypes.slice(0, 6); // teaser
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title="Home">
+  <h1 class="hero-title">Life after a BlueDot course.</h1>
+  <p class="lede">
+    You finished a BlueDot course. The momentum is real and the calendar is
+    empty. <em>"Stay engaged with the field"</em> is not a project. This is a
+    menu of sixteen concrete ones — each with honest tradeoffs about who it
+    fits, what v1 looks like, and how to start this week.
+  </p>
+
+  <div class="two-doors">
+    <div class="door">
+      <h2>I just finished a course.</h2>
+      <p>
+        Read the method in 30 seconds, pick one archetype from the menu,
+        and commit to a v1 in six weeks. One thing finished beats three
+        things started.
+      </p>
+      <a href={`${base}/menu`} class="cta">See the menu →</a>
+    </div>
+    <div class="door">
+      <h2>I facilitate cohorts.</h2>
+      <p>
+        Hand-off mechanics — when to send the playbook, the closing-note
+        template, the 0–10 clarity question, the 2-week follow-up that
+        moves completion rates.
+      </p>
+      <a href={`${base}/facilitators`} class="cta cta-secondary">For facilitators →</a>
+    </div>
+  </div>
+
+  <h2>The method, in five steps</h2>
+  <ol>
+    <li><strong>Score yourself 0–10</strong> on <em>"how clear am I on my next step?"</em> If you're a 0–3, do a short reading-and-conversation sprint first.</li>
+    <li><strong>Read <a href={`${base}/method`}>the method</a></strong> — the framing and the menu.</li>
+    <li><strong>Pick one</strong> archetype and commit to a v1 in six weeks. One, not three.</li>
+    <li><strong>Grab the matching <a href={`${base}/templates`}>template</a></strong> so you don't start from a blank page.</li>
+    <li><strong>Tell your cohort what you picked.</strong> Public commitment beats private intent.</li>
+  </ol>
+
+  <h2>The menu</h2>
+  <p class="lede" style="font-size: 1rem;">
+    Sixteen archetypes, each with a <code>Best fit for:</code> tag so alumni
+    from AGI Strategy, Biosecurity, Frontier AI Governance, and Technical AI
+    Safety can spot what lands for their course. Six show their first cards
+    below — <a href={`${base}/menu`}>see all sixteen</a>.
+  </p>
+
+  <div class="archetype-grid">
+    {featured.map((archetype) => <ArchetypeCard archetype={archetype} />)}
+  </div>
+
+  <p style="margin-top: 2rem;">
+    <a href={`${base}/menu`} class="cta">Browse all 16 archetypes →</a>
+  </p>
+
+  <h2>Build while you wait</h2>
+  <p>
+    Applying to <a href={`${base}/menu/09-job-application`}>jobs</a> or
+    <a href={`${base}/menu/10-fellowship-application`}>fellowships</a> takes
+    weeks of waiting. Don't make that time passive — ship the artifact (a
+    memo, an op-ed, a landscape doc, a tracker, a bill) that makes your next
+    application non-generic. The thing you ship while you wait is often what
+    makes the next decision easier to win.
+  </p>
+</BaseLayout>

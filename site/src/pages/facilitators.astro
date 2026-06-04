@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+
+const facilitating = await getEntry('pages', 'facilitating');
+const community = await getEntry('pages', 'community');
+if (!facilitating || !community) throw new Error('facilitating or community page entry not found');
+
+const { Content: FacilitatingContent } = await render(facilitating);
+const { Content: CommunityContent } = await render(community);
+---
+
+<BaseLayout title="For Facilitators" description="The hand-off guide and community patterns for facilitators running this playbook with a cohort.">
+  <FacilitatingContent />
+  <hr style="margin: 4rem 0;" />
+  <CommunityContent />
+</BaseLayout>

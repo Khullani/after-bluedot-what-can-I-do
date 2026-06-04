@@ -1,3 +1,14 @@
+---
+title: "IL HB5760 — AI Work Transition Commission Act"
+archetype: 12
+status: "Introduced; in committee"
+sponsor: "Rep. Kimberly du Buclet (D)"
+chamber: "104th Illinois General Assembly"
+introduced: "2026-04-30"
+link: "https://www.billtrack50.com/billdetail/2002509"
+maintainerArtifact: true
+---
+
 # Example — Draft a bill
 
 > Archetype #12.

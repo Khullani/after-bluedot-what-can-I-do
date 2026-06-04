@@ -1,3 +1,11 @@
+---
+title: "Illinois written testimony"
+archetype: 6
+status: "Filed"
+link: "https://strategy.techne.ai/illinois-AI-laws/testimony.html"
+maintainerArtifact: true
+---
+
 # Example — Public comment / testimony
 
 > Archetype #6.

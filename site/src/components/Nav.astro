@@ -1,0 +1,16 @@
+---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const path = Astro.url.pathname;
+const isActive = (route: string) => path === `${base}${route}` || path === `${base}${route}/`;
+---
+
+<nav class="nav-bar">
+  <a href={`${base}/`} class="nav-brand">After BlueDot</a>
+  <div class="nav-links">
+    <a href={`${base}/method`} aria-current={isActive('/method') ? 'page' : undefined}>The Method</a>
+    <a href={`${base}/menu`} aria-current={isActive('/menu') ? 'page' : undefined}>The Menu</a>
+    <a href={`${base}/examples`} aria-current={isActive('/examples') ? 'page' : undefined}>Examples</a>
+    <a href={`${base}/templates`} aria-current={isActive('/templates') ? 'page' : undefined}>Templates</a>
+    <a href={`${base}/facilitators`} aria-current={isActive('/facilitators') ? 'page' : undefined}>For Facilitators</a>
+  </div>
+</nav>

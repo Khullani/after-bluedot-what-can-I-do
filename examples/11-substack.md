@@ -1,3 +1,12 @@
+---
+title: "Parrhesia, Praxis, and Poetry: AI Governance's Truth-Telling Problem"
+archetype: 11
+status: "Published"
+publication: "Heterotopia AI Substack"
+link: "https://heterotopiaai.substack.com/p/parrhesia-praxis-and-poetry-ai-governances"
+maintainerArtifact: true
+---
+
 # Example — Substack
 
 > Archetype #11.

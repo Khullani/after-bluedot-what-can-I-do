@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const examples = (await getCollection('examples')).sort(
+  (a, b) => a.data.archetype - b.data.archetype
+);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title="Examples" description="Real artifacts from cohorts and post-BlueDot work — case studies of the archetypes in the wild.">
+  <h1>In the wild</h1>
+  <p class="lede">
+    Real artifacts from cohorts I've facilitated and from my own post-BlueDot
+    work — concrete instances of the archetypes, with what was shipped and
+    what happened.
+  </p>
+
+  <ul style="list-style: none; padding: 0;">
+    {examples.map((example) => {
+      const slug = example.id.replace(/\.md$/, '');
+      return (
+        <li style="border-bottom: 1px solid var(--rule); padding: 1.5rem 0;">
+          <p style="margin: 0 0 0.25rem 0; font-family: var(--font-sans); font-size: 0.8125rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); font-weight: 600;">
+            Archetype #{example.data.archetype}
+          </p>
+          <h3 style="margin: 0 0 0.5rem 0;">
+            <a href={`${base}/examples/${slug}`}>{example.data.title}</a>
+          </h3>
+          <p class="example-status">Status: {example.data.status}</p>
+        </li>
+      );
+    })}
+  </ul>
+
+  <p style="margin-top: 3rem;">
+    <a href={`${base}/menu`} class="cta cta-secondary">← Back to the menu</a>
+  </p>
+</BaseLayout>

@@ -1,3 +1,11 @@
+---
+title: "DNA synthesis landscape document"
+archetype: 4
+status: "Published by BlueDot Impact"
+link: "https://docs.google.com/document/d/1w-KqzvdN-GqH6pA4I0koqYnKEySwKHtS_945Bgp-fXk/edit?tab=t.0#heading=h.2gsm4b1fvo18"
+maintainerArtifact: false
+---
+
 # Example — Landscape doc
 
 > Archetype #4.

@@ -1,3 +1,15 @@
+---
+number: 3
+title: "Policy memo for a specific stakeholder"
+oneLine: "One named decision-maker, one decision, two pages"
+timeToV1: "2–4 weeks"
+timeBucket: "0-4"
+courses: ["FAIG", "AGIS", "BIOS"]
+templates: ["templates/one-pager.md", "templates/staff-bill-analysis.md", "templates/project-brief.md"]
+exampleStatus: "n/a-by-design"
+example: null
+---
+
 # Archetype 3: Policy memo for a specific stakeholder
 
 > One named decision-maker. One decision they're about to make. Two pages —

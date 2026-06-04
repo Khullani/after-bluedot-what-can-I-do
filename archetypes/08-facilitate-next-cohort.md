@@ -1,3 +1,15 @@
+---
+number: 8
+title: "Facilitate the next cohort"
+oneLine: "Run BlueDot, or your local adaptation, for a new group"
+timeToV1: "8–12 weeks"
+timeBucket: "8-12"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/project-brief.md", "templates/facilitator-wrap-up-note.md"]
+exampleStatus: "n/a-by-design"
+example: null
+---
+
 # Archetype 8: Facilitate the next cohort
 
 > Run a BlueDot course — the same one you took, or a local adaptation —

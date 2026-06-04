@@ -1,3 +1,13 @@
+---
+title: "AI Safety Chicago"
+archetype: 7
+status: "Recurring; white paper planned"
+format: "Debate series"
+cohost: "BlueDot Impact"
+link: "https://luma.com/ais-chicago"
+maintainerArtifact: true
+---
+
 # Example — Convening / panel / workshop
 
 > Archetype #7.

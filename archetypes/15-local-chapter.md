@@ -1,3 +1,15 @@
+---
+number: 15
+title: "Local chapter / reading group"
+oneLine: "Open-membership group at your campus or city — sustained past month 3"
+timeToV1: "12 weeks"
+timeBucket: "8-12"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/convening-agenda.md", "templates/salon-session-outline.md"]
+exampleStatus: "pending"
+example: null
+---
+
 # Archetype 15: Local chapter / reading group
 
 > Open-membership reading group or community at your campus or city — student-led, ongoing, sustained past month 3.

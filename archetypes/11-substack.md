@@ -1,3 +1,15 @@
+---
+number: 11
+title: "Substack — weekly post for four weeks"
+oneLine: "Four posts in four weeks; clear writing is clear thinking"
+timeToV1: "4 weeks"
+timeBucket: "4-8"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: []
+exampleStatus: "live"
+example: "examples/11-substack.md"
+---
+
 # Archetype 11: Substack — weekly post for four weeks
 
 > A short-run Substack discipline: one published post per week for four weeks. The point is the thinking, not the audience.

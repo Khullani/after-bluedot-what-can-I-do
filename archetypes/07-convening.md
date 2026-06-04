@@ -1,3 +1,15 @@
+---
+number: 7
+title: "Convening / panel / workshop"
+oneLine: "Get the right 8 people in a room for 90 minutes"
+timeToV1: "4–8 weeks"
+timeBucket: "4-8"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/convening-invitation.md", "templates/convening-agenda.md", "templates/project-brief.md"]
+exampleStatus: "live"
+example: "examples/07-convening.md"
+---
+
 # Archetype 7: Convening / panel / workshop
 
 > Get the right eight people in a room for ninety minutes, with a specific

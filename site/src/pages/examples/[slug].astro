@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const examples = await getCollection('examples');
+  return examples.map((example) => ({
+    params: { slug: example.id.replace(/\.md$/, '') },
+    props: { example },
+  }));
+};
+
+const { example } = Astro.props;
+const { Content } = await render(example);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Look up the matching archetype so we can deep-link back to its detail page.
+const archetypes = await getCollection('archetypes');
+const matchingArchetype = archetypes.find(
+  (a) => a.data.number === example.data.archetype
+);
+const archetypeSlug = matchingArchetype?.id.replace(/\.md$/, '') ?? '';
+const backHref = archetypeSlug
+  ? `${base}/menu/${archetypeSlug}`
+  : `${base}/menu`;
+---
+
+<BaseLayout title={example.data.title} description={`Archetype #${example.data.archetype} — ${example.data.status}`}>
+  <article>
+    <p style="font-family: var(--font-sans); font-size: 0.8125rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0 0 0.5rem 0;">
+      Archetype #{example.data.archetype}
+    </p>
+    <div class="meta-bar">
+      <span class="meta-item"><strong>Status:</strong> {example.data.status}</span>
+      <span class="meta-item"><strong>Primary link:</strong> <a href={example.data.link}>{example.data.link}</a></span>
+    </div>
+    <Content />
+    <p style="margin-top: 3rem;">
+      <a href={backHref} class="cta cta-secondary">← Back to archetype #{example.data.archetype}</a>
+    </p>
+  </article>
+</BaseLayout>

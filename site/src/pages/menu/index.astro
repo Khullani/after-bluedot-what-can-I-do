@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import ArchetypeCard from '../../components/ArchetypeCard.astro';
+
+const archetypes = (await getCollection('archetypes')).sort(
+  (a, b) => a.data.number - b.data.number
+);
+---
+
+<BaseLayout title="The Menu" description="Sixteen concrete archetypes for post-course projects, each with honest tradeoffs.">
+  <h1>The Menu</h1>
+  <p class="lede">
+    Sixteen archetypes for post-course projects. Each has a <code>Best fit for:</code>
+    tag so you can spot what lands for your course (FAIG / AGIS / BIOS / TAIS).
+    Pick one. Commit to a v1 in six weeks. Tell your cohort what you picked.
+  </p>
+
+  <p style="font-family: var(--font-sans); font-size: 0.875rem; color: var(--muted);">
+    <strong>Course-fit abbreviations:</strong> <code>FAIG</code> Frontier AI Governance ·
+    <code>AGIS</code> AGI Strategy · <code>BIOS</code> Biosecurity ·
+    <code>TAIS</code> Technical AI Safety · <code>ALL</code> applies cleanly to all four.
+  </p>
+
+  <div class="archetype-grid" style="margin-top: 2rem;">
+    {archetypes.map((archetype) => <ArchetypeCard archetype={archetype} />)}
+  </div>
+
+  <p style="margin-top: 3rem; font-family: var(--font-sans); font-size: 0.875rem; color: var(--muted);">
+    <em>Filtering (by time, by course, by example status) and the clarity-score check
+    are coming in a follow-up pass — see the <a href="https://github.com/Khullani/after-bluedot-what-can-I-do/blob/main/site/TODO.md">site TODO</a>.</em>
+  </p>
+</BaseLayout>

@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+
+const entry = await getEntry('pages', 'faq');
+if (!entry) throw new Error('faq page entry not found');
+const { Content } = await render(entry);
+---
+
+<BaseLayout title="FAQ" description="Short answers to the questions cohort members and facilitators ask most.">
+  <Content />
+</BaseLayout>

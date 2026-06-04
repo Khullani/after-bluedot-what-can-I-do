@@ -1,3 +1,15 @@
+---
+number: 2
+title: "Local salon / reading group"
+oneLine: "Run a 4–6 week course for 4–6 senior practitioners near you"
+timeToV1: "6–10 weeks"
+timeBucket: "8-12"
+courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
+templates: ["templates/salon-invitation-email.md", "templates/salon-session-outline.md", "templates/project-brief.md"]
+exampleStatus: "live"
+example: "https://github.com/Khullani/agi-strategy-government"
+---
+
 # Archetype 2: Local salon / reading group
 
 > Run a 4–6 week course for 4–6 senior practitioners in your city, on a topic
