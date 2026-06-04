@@ -1,7 +1,7 @@
 # Examples
 
 Real artifacts from cohorts I've facilitated and from my own post-BlueDot
-work. Each is a concrete instance of one of the twelve archetypes in
+work. Each is a concrete instance of one of the sixteen archetypes in
 [`../PLAYBOOK.md`](../PLAYBOOK.md). The case studies are short — what was
 shipped, who got it, and what happened.
 
@@ -21,6 +21,10 @@ If you used the playbook and shipped something, open a PR to add it here.
 | 10 | Apply for a fellowship | Applications are private — see [archetype #10](../archetypes/10-fellowship-application.md) for the ten most-cited fellowships | n/a by design |
 | 11 | Substack | [`11-substack.md`](./11-substack.md) — Heterotopia AI ("Parrhesia, Praxis, and Poetry") | Published |
 | 12 | Draft a bill | [`12-bill-drafting.md`](./12-bill-drafting.md) — IL HB5760 (AI Work Transition Commission, sponsor du Buclet) | Introduced; in committee |
+| 13 | 1:1 outreach | No example yet — see [archetype #13](../archetypes/13-one-on-one-outreach.md) for the v1 shape | Pending |
+| 14 | Networking events | No example yet — see [archetype #14](../archetypes/14-networking-events.md) for the v1 shape | Pending |
+| 15 | Local chapter / reading group | No example yet — see [archetype #15](../archetypes/15-local-chapter.md) for the v1 shape | Pending |
+| 16 | Technical follow-up project | No example yet — first example will land when a TAIS-track cohort member ships partial replication | Pending |
 
 ## What's in this folder
 

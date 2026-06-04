@@ -55,6 +55,14 @@ body:
         - label: "#6 Public comment / regulatory submission"
         - label: "#7 Convening / panel / workshop"
         - label: "#8 Facilitate the next cohort"
+        - label: "#9 Apply for a specific role"
+        - label: "#10 Apply for a fellowship"
+        - label: "#11 Substack — weekly post for four weeks"
+        - label: "#12 Draft a bill (for a willing sponsor)"
+        - label: "#13 1:1 outreach"
+        - label: "#14 Networking events"
+        - label: "#15 Local chapter / reading group"
+        - label: "#16 Technical follow-up project"
         - label: "Something off-menu (describe below)"
   - type: textarea
     id: shipped

@@ -29,7 +29,7 @@ shows what changed. -->
 
 - **Issue linking the proposal:** #___
 - **The v1 you saw shipped:** <!-- you can't propose an archetype without an artifact -->
-- **Why it doesn't fit one of the existing eight.**
+- **Why it doesn't fit one of the existing sixteen.**
 
 ## Voice contract
 
