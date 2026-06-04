@@ -17,6 +17,8 @@ years. This is the archetype with the longest tail.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses (FAIG, AGIS, BIOS, TAIS) — under-mapped gaps exist in every domain.
+
 - You have research instincts and the discipline to scope tightly.
 - You can name in one sentence the gap your doc fills. "There's no
   comprehensive overview of how state-level Medicaid agencies are using

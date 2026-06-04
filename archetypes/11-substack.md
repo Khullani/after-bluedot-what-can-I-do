@@ -16,6 +16,8 @@ stance because you've already taken one in writing.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses (FAIG, AGIS, BIOS, TAIS).
+
 - You finish the course with strong intuitions but can't yet defend
   them under pressure. Writing is how you find out what you actually
   think.

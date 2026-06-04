@@ -21,8 +21,8 @@ body:
     id: course
     attributes:
       label: Course / cohort name
-      description: What course was this (BlueDot Frontier AI Gov, AGI Strategy, a local adaptation)?
-      placeholder: e.g., BlueDot Frontier AI Governance, Spring 2026
+      description: What course was this? Any of the four BlueDot courses (AGI Strategy, Biosecurity, Frontier AI Governance, Technical AI Safety) or a local adaptation.
+      placeholder: e.g., BlueDot Frontier AI Governance, Spring 2026 (or AGI Strategy / Biosecurity / Technical AI Safety)
     validations:
       required: true
   - type: input

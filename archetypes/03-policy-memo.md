@@ -35,6 +35,8 @@ memo and it changed how I thought about X."
 
 ## When to pick this
 
+**Best fit for:** FAIG, AGIS, BIOS — policy-focused; less natural for TAIS unless the memo addresses a technical-policy interface.
+
 - You can name **the** decision-maker — not "policymakers," not "the
   governor's office," a person.
 - You can name the decision: a vote, a rulemaking, a procurement, a

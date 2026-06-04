@@ -20,6 +20,8 @@ you scope it right.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses (FAIG, AGIS, BIOS, TAIS) — every domain has laws to track.
+
 - You live in or care deeply about a **specific** jurisdiction. Not "the US"
   — Illinois, or California, or the FTC's AI docket.
 - You enjoy structuring information. The work is 60% taxonomy and 40%

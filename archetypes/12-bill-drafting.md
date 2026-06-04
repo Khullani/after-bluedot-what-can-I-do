@@ -20,6 +20,8 @@ reason.
 
 ## When to pick this
 
+**Best fit for:** FAIG, AGIS, BIOS — bills are policy machinery; TAIS only via a technical-standards angle.
+
 - **You have a named, willing sponsor.** A real legislator or
   legislator's office that has agreed to introduce the bill, not a
   legislator you hope to recruit. The sponsor is the gating constraint.

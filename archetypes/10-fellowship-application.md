@@ -17,6 +17,8 @@ time, and demonstrated prior work.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses — fellowships skew different ways (MATS / ARENA / SPAR / Apart toward TAIS; GovAI / IAPS / Talos toward governance; ERA bridges both).
+
 - A specific fellowship's focus, timing, and location match your
   trajectory. "I want to do AI safety research" is not enough; "I want
   to spend 10 weeks at LISA on interpretability mentored by someone

@@ -17,6 +17,8 @@ worth their attention.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses (FAIG, AGIS, BIOS, TAIS).
+
 - You have **one** sharp argument. Not three. One.
 - You can name the outlet and, ideally, the specific section editor.
 - You have a hook — a recent event, a bill, a court ruling — that gives

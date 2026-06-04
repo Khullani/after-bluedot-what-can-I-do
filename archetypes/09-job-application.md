@@ -17,6 +17,8 @@ is also a finishable archetype on its own.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses (FAIG, AGIS, BIOS, TAIS).
+
 - You can name the org and the role specifically — not "any AI safety
   job."
 - You have 4 weeks for focused work: role research, two or three

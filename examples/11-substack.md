@@ -7,7 +7,7 @@
 **"Parrhesia, Praxis, and Poetry: AI Governance's Truth-Telling
 Problem"** — a post on the [Heterotopia AI](https://heterotopiaai.substack.com/)
 Substack, published immediately after the author finished a BlueDot
-Frontier AI Governance course.
+course (Frontier AI Governance).
 
 - **Link:** [heterotopiaai.substack.com/p/parrhesia-praxis-and-poetry-ai-governances](https://heterotopiaai.substack.com/p/parrhesia-praxis-and-poetry-ai-governances)
 - **Status:** Published.
