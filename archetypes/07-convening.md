@@ -18,6 +18,8 @@ you've thrown a party.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses (FAIG, AGIS, BIOS, TAIS).
+
 - You can name the eight people you'd want in the room, with their real
   names, and you have a credible reason each of them would say yes.
 - You have a specific output in mind: a memo, a question set, a working

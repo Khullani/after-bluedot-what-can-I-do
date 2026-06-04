@@ -1,7 +1,9 @@
 # Life After a BlueDot Course: What Comes Next?
 
-A post-course playbook for BlueDot Frontier AI Governance alumni — written by
-a facilitator, usable by anyone in any cohort.
+A post-course playbook for BlueDot alumni — written by a facilitator of the
+Frontier AI Governance course, usable by anyone leaving any of the four
+BlueDot courses (AGI Strategy, Biosecurity, Frontier AI Governance, Technical
+AI Safety).
 
 ## Two ways in
 
@@ -16,10 +18,11 @@ This repo serves two audiences. Start in the right place:
 
 ## TL;DR
 
-You just finished a BlueDot AI governance course. The momentum is real and your
+You just finished a BlueDot course (AGI Strategy, Biosecurity, Frontier AI
+Governance, or Technical AI Safety). The momentum is real and your
 calendar is empty. "Stay engaged with the field" is not a project, so most
 people read a few more papers, wait to feel ready, and ship nothing. This repo
-is the menu of concrete next projects I wish someone had handed me: eight
+is the menu of concrete next projects I wish someone had handed me: twelve
 archetypes for post-course work, each with honest tradeoffs about who it fits.
 
 The whole method, in five steps:
@@ -39,8 +42,9 @@ the short answers to common questions? See [`FAQ.md`](./FAQ.md).
 
 ## Who this is for
 
-You finished a BlueDot Frontier AI Governance course — mine or anyone else's,
-the playbook works the same. The momentum is real and the calendar is empty.
+You finished a BlueDot course — AGI Strategy, Biosecurity, Frontier AI
+Governance, or Technical AI Safety; mine or anyone else's, the playbook works
+the same. The momentum is real and the calendar is empty.
 You want to do something useful with what you learned, but "stay engaged with
 the field" is not a project, and most of the moves people suggest at the end
 of a course are vague enough that you'll end up doing none of them.
@@ -51,9 +55,8 @@ which one fits which person.
 
 ## How to use it
 
-1. Read [`PLAYBOOK.md`](./PLAYBOOK.md) — the framing, the menu, and two
-   appendices on staying grounded (reading list) and on listening across
-   political contexts.
+1. Read [`PLAYBOOK.md`](./PLAYBOOK.md) — the framing, the menu, and an
+   appendix on staying grounded (a reading list).
 2. Score yourself on the 0–10 clarity question at the top of the
    playbook. Then answer the question that matters more: *what would
    help move you closer to a 10?*
@@ -72,20 +75,24 @@ The playbook goes inside that note, not as a separate email.
 
 ## The menu
 
-| # | Archetype | One-line | Time to v1 |
-|---|-----------|----------|------------|
-| 1 | [Legislative / regulatory tracker](./archetypes/01-legislative-tracker.md) | Map a jurisdiction's AI laws into something legible | 4–8 weeks |
-| 2 | [Local salon / reading group](./archetypes/02-local-salon.md) | Run a 4–6 week course for 4–6 senior practitioners near you | 6–10 weeks |
-| 3 | [Policy memo for a specific stakeholder](./archetypes/03-policy-memo.md) | One named decision-maker, one decision, two pages | 2–4 weeks |
-| 4 | [Landscape doc on an under-covered topic](./archetypes/04-landscape-research.md) | A public writeup that fills a gap nobody else has filled | 8–12 weeks |
-| 5 | [Op-ed / public writing](./archetypes/05-op-ed.md) | One published piece in an outlet your stakeholders read | 3–6 weeks |
-| 6 | [Public comment / regulatory submission](./archetypes/06-public-comment.md) | Respond to an open RFC, NIST draft, or agency notice | 2–4 weeks |
-| 7 | [Convening / panel / workshop](./archetypes/07-convening.md) | Get the right 8 people in a room for 90 minutes | 4–8 weeks |
-| 8 | [Facilitate the next cohort](./archetypes/08-facilitate-next-cohort.md) | Run BlueDot, or your local adaptation, for a new group | 8–12 weeks |
-| 9 | [Apply for a specific role](./archetypes/09-job-application.md) | One named role at one named org, with the same investment you'd give a memo | 4 weeks |
-| 10 | [Apply for a fellowship](./archetypes/10-fellowship-application.md) | Pick one fellowship that fits your trajectory; treat the application as an archetype | 3–6 weeks |
-| 11 | [Substack — weekly post for four weeks](./archetypes/11-substack.md) | Four posts in four weeks; clear writing is clear thinking | 4 weeks |
-| 12 | [Draft a bill (for a willing sponsor)](./archetypes/12-bill-drafting.md) | Statutory text drafted for a sponsor who'll introduce it — highest leverage when the gap is real, highest bar to ship | 12–24 weeks |
+Course-fit abbreviations: **FAIG** = Frontier AI Governance · **AGIS** = AGI
+Strategy · **BIOS** = Biosecurity · **TAIS** = Technical AI Safety · **ALL** =
+applies cleanly to all four.
+
+| # | Archetype | One-line | Time to v1 | Courses |
+|---|-----------|----------|------------|---------|
+| 1 | [Legislative / regulatory tracker](./archetypes/01-legislative-tracker.md) | Map a jurisdiction's AI laws into something legible | 4–8 weeks | ALL |
+| 2 | [Local salon / reading group](./archetypes/02-local-salon.md) | Run a 4–6 week course for 4–6 senior practitioners near you | 6–10 weeks | ALL |
+| 3 | [Policy memo for a specific stakeholder](./archetypes/03-policy-memo.md) | One named decision-maker, one decision, two pages | 2–4 weeks | FAIG, AGIS, BIOS |
+| 4 | [Landscape doc on an under-covered topic](./archetypes/04-landscape-research.md) | A public writeup that fills a gap nobody else has filled | 8–12 weeks | ALL |
+| 5 | [Op-ed / public writing](./archetypes/05-op-ed.md) | One published piece in an outlet your stakeholders read | 3–6 weeks | ALL |
+| 6 | [Public comment / regulatory submission](./archetypes/06-public-comment.md) | Respond to an open RFC, NIST draft, or agency notice | 2–4 weeks | FAIG, AGIS, BIOS |
+| 7 | [Convening / panel / workshop](./archetypes/07-convening.md) | Get the right 8 people in a room for 90 minutes | 4–8 weeks | ALL |
+| 8 | [Facilitate the next cohort](./archetypes/08-facilitate-next-cohort.md) | Run BlueDot, or your local adaptation, for a new group | 8–12 weeks | ALL |
+| 9 | [Apply for a specific role](./archetypes/09-job-application.md) | One named role at one named org, with the same investment you'd give a memo | 4 weeks | ALL |
+| 10 | [Apply for a fellowship](./archetypes/10-fellowship-application.md) | Pick one fellowship that fits your trajectory; treat the application as an archetype | 3–6 weeks | ALL |
+| 11 | [Substack — weekly post for four weeks](./archetypes/11-substack.md) | Four posts in four weeks; clear writing is clear thinking | 4 weeks | ALL |
+| 12 | [Draft a bill (for a willing sponsor)](./archetypes/12-bill-drafting.md) | Statutory text drafted for a sponsor who'll introduce it — highest leverage when the gap is real, highest bar to ship | 12–24 weeks | FAIG, AGIS, BIOS |
 
 ## Live examples
 
@@ -115,17 +122,21 @@ better-evidenced over time.
 ## About
 
 This playbook started as the closing note I send my own cohorts 1–2 days after
-the last session of the BlueDot Impact Frontier AI Governance course. It grew
+the last session of the BlueDot Impact Frontier AI Governance course I facilitate. It grew
 into a menu because "stay engaged with the field" is not a project, and the
 vague advice people get at the end of a course is the reason so little gets
 shipped in the weeks after.
 
-It's written for any BlueDot Frontier AI Governance alum, not only my own
-cohorts — the menu, the templates, and the case studies port cleanly to
-anyone leaving the course with momentum and an empty calendar. If you're a
-facilitator handing it off to *your* cohort, see
-[`FACILITATING.md`](./FACILITATING.md); the CC BY 4.0 license means you can
-fork and adapt without asking.
+It's written for any BlueDot alum — AGI Strategy, Biosecurity, Frontier AI
+Governance, or Technical AI Safety — not only my own cohorts. The menu, the
+templates, and the case studies port cleanly to anyone leaving any of the four
+courses with momentum and an empty calendar. The archetype voice and examples
+skew toward governance and policy because that's the course I facilitate, but
+the structure works for technical alumni too — each archetype's `Best fit
+for:` line says which courses it lands cleanly for. If you're a facilitator
+handing it off to *your* cohort, see
+[`FACILITATING.md`](./FACILITATING.md); the CC BY 4.0
+license means you can fork and adapt without asking.
 
 It's deliberately opinionated and first-person — a hand-off, not a balanced
 catalog. The twelve archetypes are the moves I've watched actually work for

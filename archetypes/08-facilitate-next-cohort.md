@@ -19,6 +19,8 @@ across multiple cohorts.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses — you can facilitate the same course you took, or a local adaptation.
+
 - You enjoyed the facilitator role in your own cohort — speaking up,
   shaping the conversation, holding the room. You can tell the
   difference between facilitating well and just talking a lot.

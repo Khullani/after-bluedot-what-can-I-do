@@ -49,8 +49,10 @@ made them useful. The absence is honest, not an oversight. Use the
 
 **Do I have to be a BlueDot alum to use this?**
 No. It's written as a hand-off for alumni of the BlueDot Frontier AI Governance
-course because that's who I facilitate, but the menu works for anyone leaving a
-structured AI-policy program with momentum and an empty calendar. Use it.
+course (the course I facilitate), but the menu works for alumni of any of the
+four BlueDot courses — AGI Strategy, Biosecurity, Frontier AI Governance, and
+Technical AI Safety — and for anyone leaving a structured AI-policy or AI-safety
+program with momentum and an empty calendar. Use it.
 
 **Can I use this for a field that isn't AI governance?**
 The archetypes (tracker, memo, op-ed, convening, etc.) are general-purpose moves

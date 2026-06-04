@@ -14,7 +14,8 @@ Don't bury it. Don't open with three paragraphs of "we appreciate the
 agency's thoughtful consideration."
 
 > Example: "I am [name], [affiliation/independent], based in [city]. I
-> facilitate the BlueDot Impact Frontier AI Governance course locally and
+> facilitate the BlueDot Impact Frontier AI Governance course locally (or
+> AGI Strategy / Biosecurity / Technical AI Safety, depending on your cohort) and
 > have worked with [N] practitioners on AI governance projects. I write to
 > recommend that [agency] [do X / not do Y / clarify Z]."
 

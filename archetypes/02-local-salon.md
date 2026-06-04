@@ -17,6 +17,8 @@ participants from five different agencies is five rooms.
 
 ## When to pick this
 
+**Best fit for:** any of the four BlueDot courses — the curriculum slice you adapt comes from whichever course you took.
+
 - You're a comfortable facilitator. You don't have to be a content expert
   on the original curriculum — you have to be able to hold a room.
 - You have 4–6 senior people in your adjacent network who would come if
@@ -68,7 +70,10 @@ practitioners, five weeks, four participants, Chatham House Rules.
 1. **List your top 12 candidates.** Senior, adjacent-field, in your city.
    You'll invite 8 to get 5.
 2. **Pick the curriculum slice.** Not the whole BlueDot course — one
-   coherent arc (4–6 sessions). Default to AGI Strategy or Governance.
+   coherent arc (4–6 sessions). Default to whichever course you took
+   (AGI Strategy, Biosecurity, Frontier AI Governance, or Technical AI
+   Safety); a salon works best when the facilitator already has
+   conviction in the source material.
 3. **Write the invitation email.** Concrete: dates, location, time
    commitment, what they get, why you picked them personally.
 4. **Pre-commit a venue and dates** before you send invitations. People

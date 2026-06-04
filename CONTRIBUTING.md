@@ -52,13 +52,13 @@ for, and the v1 you saw. If I think it belongs on the menu, the next
 step is a PR adding the archetype detail file and at least one example.
 Friction: moderate-to-high.
 
-**5. Add an appendix or framework.** The two appendices in `PLAYBOOK.md`
-(reading list; talking-across-contexts) are facilitator-specific
-material that compounds across cohorts. If you teach a framework
-that consistently lands with your cohorts — and that's not already
-covered — propose it. Appendices are signed by their authors, in their
-voice. Friction: moderate (requires editorial discussion to keep the
-playbook's overall stance coherent).
+**5. Add an appendix or framework.** The appendix in `PLAYBOOK.md`
+(a reading list for staying grounded) is facilitator-specific material
+that compounds across cohorts. If you teach a framework that consistently
+lands with your cohorts — and that's not already covered — propose it.
+Appendices are signed by their authors, in their voice. Friction:
+moderate (requires editorial discussion to keep the playbook's overall
+stance coherent).
 
 ## The voice contract
 

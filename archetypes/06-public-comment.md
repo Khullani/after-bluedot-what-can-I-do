@@ -18,6 +18,8 @@ to write the thing.
 
 ## When to pick this
 
+**Best fit for:** FAIG, AGIS, BIOS — most public-comment windows are policy / governance; TAIS only when there's a technical-standards comment open.
+
 - There is an open comment window **right now** in your area of interest.
   Check regulations.gov, the Federal Register, NIST drafts, FTC dockets,
   state agencies, EU consultations.

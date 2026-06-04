@@ -6,10 +6,9 @@ This is the long version of the README. Read it once, then pick one archetype.
 > person who just finished a course and is deciding what to do next. If you're a
 > **facilitator** handing this playbook off to a cohort, read
 > [`FACILITATING.md`](./FACILITATING.md) first; it covers the timing, the
-> closing note, and the follow-up that make the hand-off actually land. The two
-> appendices at the end (a reading list for staying grounded, and a note on
-> listening across political contexts) are facilitator-oriented material worth
-> reading either way.
+> closing note, and the follow-up that make the hand-off actually land. The
+> appendix at the end (a reading list for staying grounded) is
+> facilitator-oriented material worth reading either way.
 
 ## Why I wrote this
 
@@ -65,7 +64,8 @@ Some rough patterns from what I've seen:
   the transition you're considering. Pick the archetype *after* this,
   not during.
 - **4–7.** You have direction, not full conviction. This is where most
-  people are after a BlueDot course, and this is where the menu below
+  people are after any BlueDot course (AGI Strategy, Biosecurity, Frontier AI
+Governance, or Technical AI Safety), and this is where the menu below
   helps most. The archetype is the device that moves you toward
   conviction by forcing a specific, finishable commitment.
 - **8–10.** You've already chosen, you just want a structure. Pick the
@@ -107,6 +107,8 @@ to the salon. If you can't name the human, your archetype is too abstract.
 
 ### 1. Legislative / regulatory tracker → [details](./archetypes/01-legislative-tracker.md)
 
+*Best fit for: ALL (FAIG, AGIS, BIOS, TAIS).*
+
 **Good if** you live in or care about a specific jurisdiction, like
 making things legible, and don't mind shipping a small website.
 **Bad if** you don't have a jurisdiction you actually follow, or you'd
@@ -116,6 +118,8 @@ updates them.
 Example: [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws).
 
 ### 2. Local salon / reading group → [details](./archetypes/02-local-salon.md)
+
+*Best fit for: ALL.*
 
 **Good if** you're a comfortable facilitator, have 4–6 senior people in your
 adjacent network who'd come if you asked, and you want to compound impact
@@ -127,6 +131,8 @@ Example: [agi-strategy-government](https://github.com/Khullani/agi-strategy-gove
 
 ### 3. Policy memo for a specific stakeholder → [details](./archetypes/03-policy-memo.md)
 
+*Best fit for: FAIG, AGIS, BIOS.*
+
 **Good if** you can name the decision-maker, the decision, and the timeline.
 The highest-leverage thing on this menu when those three are clear.
 **Bad if** you're picking the stakeholder *because* they're famous rather
@@ -134,6 +140,8 @@ than because you have a real route to delivery. A great memo nobody reads
 is worse than a mediocre memo placed in front of the right person.
 
 ### 4. Landscape doc on an under-covered topic → [details](./archetypes/04-landscape-research.md)
+
+*Best fit for: ALL.*
 
 **Good if** you have research instincts, the discipline to scope tightly,
 and a specific gap you've noticed that nobody has filled. Builds
@@ -144,6 +152,8 @@ haven't found it.
 
 ### 5. Op-ed / public writing → [details](./archetypes/05-op-ed.md)
 
+*Best fit for: ALL.*
+
 **Good if** you have a single sharp argument that an editor will buy,
 and a target outlet your intended audience actually reads. One published
 piece in the right place outperforms ten Substack posts.
@@ -153,6 +163,8 @@ who that reader is, you're not ready.
 
 ### 6. Public comment / regulatory submission → [details](./archetypes/06-public-comment.md)
 
+*Best fit for: FAIG, AGIS, BIOS.*
+
 **Good if** an open RFC, NIST draft, or agency comment period exists right
 now in your area of interest. Comments are read. They get cited in final
 rulemakings. They are absurdly under-supplied relative to their leverage.
@@ -160,6 +172,8 @@ rulemakings. They are absurdly under-supplied relative to their leverage.
 the next one, do something else in the meantime.
 
 ### 7. Convening / panel / workshop → [details](./archetypes/07-convening.md)
+
+*Best fit for: ALL.*
 
 **Good if** you can name the eight people you'd want in the room and have
 a credible reason they'd come. Convenings create relationships that
@@ -169,6 +183,8 @@ the convening produces. Without an output, you've thrown a party.
 
 ### 8. Facilitate the next cohort → [details](./archetypes/08-facilitate-next-cohort.md)
 
+*Best fit for: ALL.*
+
 **Good if** facilitating the BlueDot course you took, or a local
 adaptation of it, fits your existing trajectory. Compounds the field
 directly. The single best move if you enjoyed the facilitator role
@@ -177,6 +193,8 @@ in your own cohort.
 because it's the best fit. Facilitating is real work, not a default.
 
 ### 9. Apply for a specific role → [details](./archetypes/09-job-application.md)
+
+*Best fit for: ALL.*
 
 **Good if** you can name the org and the role, you have 4 weeks for a
 focused application, and you have at least one piece of prior work that
@@ -188,6 +206,8 @@ generic and the application competes with people who did the work.
 Where to look: [`jobs.80000hours.org`](https://jobs.80000hours.org/).
 
 ### 10. Apply for a fellowship → [details](./archetypes/10-fellowship-application.md)
+
+*Best fit for: ALL.*
 
 **Good if** a specific fellowship's focus, timing, and location match
 your trajectory. Fellowships are the single biggest force multiplier
@@ -203,6 +223,8 @@ fit notes for each.
 
 ### 11. Substack — weekly post for four weeks → [details](./archetypes/11-substack.md)
 
+*Best fit for: ALL.*
+
 **Good if** you finish the course with strong intuitions you can't yet
 defend under pressure. Writing is how you find out what you actually
 think. Four weeks of weekly posts is enough discipline to find out
@@ -214,6 +236,8 @@ will kill the cadence.
 Example: [Heterotopia AI Substack — "Parrhesia, Praxis, and Poetry"](https://heterotopiaai.substack.com/p/parrhesia-praxis-and-poetry-ai-governances).
 
 ### 12. Draft a bill (for a willing sponsor) → [details](./archetypes/12-bill-drafting.md)
+
+*Best fit for: FAIG, AGIS, BIOS.*
 
 **Good if** you have a named legislative sponsor who's agreed to file
 it, a substantive brief (memo / landscape doc / tracker) that frames
@@ -345,7 +369,7 @@ And two genres rather than specific titles:
   way nothing else does. Pick any contemporary collection that resonates
   with you and read three poems a week.
 - **Science fiction**, as an operating manual. The serious novels in the
-  genre — Le Guin, Stanisław Lem, Ted Chiang, Kim Stanley Robinson —
+  genre — Le Guin, Stanisław Lem, Arkady Martine, Ted Chiang, Kim Stanley Robinson —
   are the closest thing in print to a literature that takes
   transformative change seriously while staying tethered to human-scale
   consequences.
@@ -359,60 +383,3 @@ you also need a positive vision of the world
 to work *toward*. These books are about people in genuinely difficult
 circumstances who found a way. They're the counterweight to the part
 of this field that can drift toward despair.
-
----
-
-# Appendix B — Talking across contexts: listening to political judgment from stratified societies
-
-A pattern I've watched in cohort discussions: someone shares a
-conversation with a Chinese dissident, an Iranian expat, an
-ex-Russian researcher, and the cohort treats that person's political
-judgment as if it represented "the view from inside" the country.
-It usually doesn't. It represents the view from one stratum of a
-society that has many strata, often shaped by class, region, family
-position, religion, generation, and migration history.
-
-So when I'm in conversation with someone whose home country I know
-to be stratified or politically turbulent, I'm trying — in the
-background, not as an interview — to understand a few things. Not so
-I can second-guess them, but so I can place their remarks in
-historical and social context.
-
-The questions below are conversation openers, not formal interview
-questions. The goal is not to extract a "country perspective" from
-anyone — it's to understand how lived political experience shapes
-what risks feel obvious to them, what institutions feel trustworthy,
-and what kinds of governance feel realistic.
-
-- What did politics feel like in everyday life where you grew up? Was
-  it something people talked about openly, avoided, joked about,
-  feared, or ignored?
-- What did people trust more — the state, the market, the family,
-  religious institutions, local communities, foreign institutions, or
-  no one?
-- How did people learn what was true? Through state media, family
-  networks, social media, foreign media, religious communities,
-  schools, rumors, or lived experience?
-- What did corruption look like in practice? Was it seen as
-  exceptional, normal, necessary, shameful, survivable, or impossible
-  to avoid?
-- What did people believe about democracy? Was it viewed as valuable,
-  fragile, hypocritical, foreign, aspirational, chaotic, or
-  insufficient?
-- What did people believe about the United States, Europe, China, or
-  other major powers? Were they seen as models, threats, hypocrites,
-  opportunities, colonizers, stabilizers, or something else?
-- What do outsiders usually misunderstand about your country's
-  politics?
-- What forms of courage were respected? Speaking out, surviving
-  quietly, leaving, staying, organizing, protecting family, building
-  institutions, making money, telling the truth, or something else?
-- How do people decide when to comply, when to resist, and when to
-  leave?
-
-The very limited claim I'd defend: ask two members of Chinese society
-from different parts of the country, or from mainland China and Hong
-Kong, and you'll get markedly different answers. Same for India and
-members of different castes; same for Iran; same for the US. The
-political judgment of any one interlocutor is *information*, not a
-country brief. Treat it as such.
