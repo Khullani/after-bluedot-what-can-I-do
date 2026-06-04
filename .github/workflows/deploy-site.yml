@@ -1,7 +1,21 @@
-name: Deploy site to GitHub Pages
+name: Build and deploy site to GitHub Pages
 
 on:
   push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'archetypes/**'
+      - 'examples/**'
+      - 'templates/**'
+      - 'PLAYBOOK.md'
+      - 'FAQ.md'
+      - 'FACILITATING.md'
+      - 'COMMUNITY.md'
+      - 'CONTRIBUTING.md'
+      - 'CODE_OF_CONDUCT.md'
+      - '.github/workflows/deploy-site.yml'
+  pull_request:
     branches: [main]
     paths:
       - 'site/**'
@@ -37,8 +51,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
-          cache-dependency-path: site/package-lock.json
 
       - name: Install dependencies
         run: npm install
@@ -49,12 +61,14 @@ jobs:
         working-directory: site
 
       - name: Upload artifact
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site/dist
 
   deploy:
     needs: build
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
