@@ -94,9 +94,6 @@ What's left (Phase 2–4):
 - The home page's "menu teaser" picks the first 6 archetypes by
   number. Once the finder lands, swap to a smarter selection (a
   cross-section — one writing, one action, one applying, etc.).
-- The archetype detail page's "Back to archetype" link from a case
-  study uses a brittle slug-rewrite trick. Replace with a clean lookup
-  via the front matter `archetype: N`.
 - Markdown links inside content collections that point at other repo
   files (e.g., `[FACILITATING.md](./FACILITATING.md)`) currently 404
   on the site. Add a remark plugin in `astro.config.mjs` that rewrites
