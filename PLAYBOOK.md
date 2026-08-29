@@ -301,6 +301,21 @@ replication + 1,500-word writeup of what broke is the v1.
 **Bad if** you can't name the paper, or you'd aim for a full
 reimplementation. Setup creep eats the timeline; partial is the v1.
 
+### 17. AI safety coworking space → [details](./archetypes/17-coworking-space.md)
+
+*Best fit for: ALL (densest for TAIS and AGIS).*
+
+**Good if** you live near — or can relocate to — a curated AI safety
+hub (LISA in London; Constellation or FAR Labs in Berkeley), you
+already have work in progress, and you can commit 2–3 days a week for
+at least three months. The artifact here is *proximity*: sustained
+co-location with the people you'd otherwise cold-email for a year.
+**Bad if** you have nothing in progress, you'd treat acceptance as the
+achievement, or you can only manage occasional drop-ins (that's #14).
+Membership without engagement is the most common way to waste the space.
+
+Where to look: [LISA](https://www.safeai.org.uk/) · [Constellation](https://constellation.org/) · [FAR Labs](https://www.far.ai/labs/).
+
 ## If you only do one thing
 
 If you have less than four hours a week and want the highest expected
@@ -357,6 +372,15 @@ for a second:
 - **#16 (tech follow-up) → #10 (fellowship)** — the replication is the
   portfolio piece that makes a MATS / ARENA / SPAR / Apart application
   non-generic.
+- **#13 (1:1 outreach) / #14 (networking events) → #17 (coworking
+  space)** — outreach and events get you on the radar of members who
+  can vouch for a coworking-space application.
+- **#17 (coworking space) → #16 (tech follow-up) or #10 (fellowship)**
+  — the proximity, feedback, and mentorship in the space are what turn
+  a vague interest into a shipped replication or a competitive
+  application. #10 and #17 are the two routes into the same rooms:
+  fellowship is the structured-programme route, coworking is the
+  self-directed one.
 
 ## Write while you do
 
