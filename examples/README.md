@@ -1,7 +1,7 @@
 # Examples
 
 Real artifacts from cohorts I've facilitated and from my own post-BlueDot
-work. Each is a concrete instance of one of the sixteen archetypes in
+work. Each is a concrete instance of one of the seventeen archetypes in
 [`../PLAYBOOK.md`](../PLAYBOOK.md). The case studies are short — what was
 shipped, who got it, and what happened.
 
@@ -25,6 +25,7 @@ If you used the playbook and shipped something, open a PR to add it here.
 | 14 | Networking events | No example yet — see [archetype #14](../archetypes/14-networking-events.md) for the v1 shape | Pending |
 | 15 | Local chapter / reading group | No example yet — see [archetype #15](../archetypes/15-local-chapter.md) for the v1 shape | Pending |
 | 16 | Technical follow-up project | No example yet — first example will land when a TAIS-track cohort member ships partial replication | Pending |
+| 17 | AI safety coworking space | No example yet — see [archetype #17](../archetypes/17-coworking-space.md) for the v1 shape | Pending |
 
 ## What's in this folder
 

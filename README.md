@@ -97,10 +97,11 @@ applies cleanly to all four.
 | 14 | [Networking events](./archetypes/14-networking-events.md) | Show up at the right events with named-person targets; leave with N qualified follow-ups | 2 events | ALL |
 | 15 | [Local chapter / reading group](./archetypes/15-local-chapter.md) | Open-membership group at your campus or city — sustained past month 3 | 12 weeks | ALL |
 | 16 | [Technical follow-up project](./archetypes/16-technical-follow-up.md) | One figure or method reproduced + 1,500-word writeup of what broke | 6–8 weeks | TAIS, AGIS |
+| 17 | [AI safety coworking space](./archetypes/17-coworking-space.md) | Apply to a curated hub (LISA, Constellation, FAR Labs) and co-locate 2–3 days a week for 3+ months | 8–12 weeks | ALL |
 
 ## Live examples
 
-Real artifacts for eight of the sixteen archetypes — see [`examples/`](./examples/)
+Real artifacts for eight of the seventeen archetypes — see [`examples/`](./examples/)
 for case studies:
 
 - **#1** — [illinois-AI-laws](https://github.com/Khullani/illinois-AI-laws) (legislative tracker, live)
@@ -119,9 +120,9 @@ for case studies:
 - **#9 (apply for a specific role)** — applications are private; the canonical job board is [`jobs.80000hours.org`](https://jobs.80000hours.org/).
 - **#10 (apply for a fellowship)** — applications are private; the [archetype file](./archetypes/10-fellowship-application.md) lists the ten most-cited AI-safety / AI-governance fellowships with fit notes.
 
-**No example yet for #13, #14, #15, and #16 — pending future cohort ships v1:**
+**No example yet for #13, #14, #15, #16, and #17 — pending future cohort ships v1:**
 
-- **#13 (1:1 outreach), #14 (networking events), #15 (local chapter)** — practices and ongoing patterns rather than single artifacts; the archetype file gives the v1 shape.
+- **#13 (1:1 outreach), #14 (networking events), #15 (local chapter), #17 (coworking space)** — practices and ongoing patterns rather than single artifacts; the archetype file gives the v1 shape.
 - **#16 (technical follow-up)** — partial replication + writeup is the v1; first example will land when a TAIS-track cohort member ships one.
 
 If you build a v1 of any archetype, open a PR to [`CHANGELOG.md`](./CHANGELOG.md)
@@ -148,7 +149,7 @@ handing it off to *your* cohort, see
 license means you can fork and adapt without asking.
 
 It's deliberately opinionated and first-person — a hand-off, not a balanced
-catalog. The sixteen archetypes are the moves I've watched actually work for
+catalog. The seventeen archetypes are the moves I've watched actually work for
 cohort members, written with honest tradeoffs about which one fits whom. Real
 artifacts back most of them (see [`examples/`](./examples/)).
 

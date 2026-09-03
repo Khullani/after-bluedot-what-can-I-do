@@ -15,7 +15,7 @@ one person actually ship. Read CONTRIBUTING.md if you haven't.
 
 <!-- The one-line tagline that would go at the top of the archetype file. -->
 
-## Why this doesn't fit one of the existing sixteen
+## Why this doesn't fit one of the existing seventeen
 
 <!-- Be specific. "This is more like #3 + #5 combined" probably doesn't need
 a new archetype — it's a combination. New archetypes earn their place by

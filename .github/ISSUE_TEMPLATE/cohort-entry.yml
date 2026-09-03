@@ -63,6 +63,7 @@ body:
         - label: "#14 Networking events"
         - label: "#15 Local chapter / reading group"
         - label: "#16 Technical follow-up project"
+        - label: "#17 AI safety coworking space"
         - label: "Something off-menu (describe below)"
   - type: textarea
     id: shipped
