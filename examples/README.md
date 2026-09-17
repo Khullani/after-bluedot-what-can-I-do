@@ -15,7 +15,7 @@ If you used the playbook and shipped something, open a PR to add it here.
 | 4 | Landscape doc | [`04-landscape-doc.md`](./04-landscape-doc.md) — DNA synthesis landscape doc | Published (BlueDot Impact) |
 | 5 | Op-ed | [`05-op-ed.md`](./05-op-ed.md) — Crain's Chicago Business, March 2026 | Published |
 | 6 | Public comment / testimony | [`06-public-comment.md`](./06-public-comment.md) — Illinois testimony | Filed |
-| 7 | Convening | [`07-convening.md`](./07-convening.md) — AI Safety Chicago (debate series, with BlueDot Impact) | Recurring; white paper planned |
+| 7 | Convening | [`07-convening.md`](./07-convening.md) — AI Safety Chicago (public-debate organizer playbook + six templates) | Recurring; playbook published |
 | 8 | Facilitate next cohort | Apply via BlueDot's facilitator pipeline; see archetype #2 example for the local-adaptation route | n/a by design |
 | 9 | Apply for a specific role | Applications are private — see [`jobs.80000hours.org`](https://jobs.80000hours.org/) for the canonical board | n/a by design |
 | 10 | Apply for a fellowship | Applications are private — see [archetype #10](../archetypes/10-fellowship-application.md) for the ten most-cited fellowships | n/a by design |

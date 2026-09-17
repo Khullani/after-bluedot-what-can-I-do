@@ -8,10 +8,10 @@ const archetypes = (await getCollection('archetypes')).sort(
 );
 ---
 
-<BaseLayout title="The Menu" description="Sixteen concrete archetypes for post-course projects, each with honest tradeoffs.">
+<BaseLayout title="The Menu" description={`${archetypes.length} concrete archetypes for post-course projects, each with honest tradeoffs.`}>
   <h1>The Menu</h1>
   <p class="lede">
-    Sixteen archetypes for post-course projects. Each has a <code>Best fit for:</code>
+    {archetypes.length} archetypes for post-course projects. Each has a <code>Best fit for:</code>
     tag so you can spot what lands for your course (FAIG / AGIS / BIOS / TAIS).
     Pick one. Commit to a v1 in six weeks. Tell your cohort what you picked.
   </p>

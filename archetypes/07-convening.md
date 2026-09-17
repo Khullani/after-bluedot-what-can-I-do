@@ -5,7 +5,16 @@ oneLine: "Get the right 8 people in a room for 90 minutes"
 timeToV1: "4–8 weeks"
 timeBucket: "4-8"
 courses: ["FAIG", "AGIS", "BIOS", "TAIS"]
-templates: ["templates/convening-invitation.md", "templates/convening-agenda.md", "templates/project-brief.md"]
+templates:
+  - "templates/convening-invitation.md"
+  - "templates/convening-agenda.md"
+  - "templates/project-brief.md"
+  - "templates/debate-emails.md"
+  - "templates/debate-run-of-show.md"
+  - "templates/debate-timekeeper-brief.md"
+  - "templates/debate-voting-setup.md"
+  - "templates/debate-moderator-research-prompt.md"
+  - "templates/debate-budget-and-checklists.md"
 exampleStatus: "live"
 example: "examples/07-convening.md"
 ---
@@ -76,18 +85,24 @@ at least two participants reply that they'd attend the next one.
 ## Example in the wild
 
 [`examples/07-convening.md`](../examples/07-convening.md) — **AI Safety
-Chicago** ([luma.com/ais-chicago](https://luma.com/ais-chicago)),
-a debate series co-hosted by Techne AI and BlueDot Impact. ~120
-attendees from Chicago universities and regulatory/legal employers,
-each debate sized to surface real disagreement rather than choreographed
-agreement. The debate format is what separates this from a meetup; the
-recurring series is what lets the output compound — a white paper
-follow-up to each debate is planned (first one in draft).
+Chicago** ([luma.com/ais-chicago](https://luma.com/ais-chicago)), a debate
+series co-hosted by Techne AI and BlueDot Impact. Roughly 120 attendees from
+Chicago universities and regulatory/legal employers came to the first event.
+The example now includes the complete organizer playbook: an eight-week
+countdown, an 83-minute Oxford-style program, the before/after vote, a budget,
+crew briefs, and six reusable templates.
 
-External convening traditions worth studying: **Chatham House** (the rule
-that everything is on record, nothing attributed) and **Carnegie** (the
-Endowment's small working-group format with a named output) — what they
-do at scale you can do for 8 people in your city. Local
+This is the **large public-event variant** of the archetype. It does not
+replace the core recommendation above: if your goal is a working artifact and
+you can name the eight people who should make it, run the smaller closed
+session. Choose the public debate when the audience movement and the local
+community it creates are themselves the intended output.
+
+External convening traditions worth studying: **[Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)**
+(participants may use the information, but may not reveal a speaker's or
+participant's identity or affiliation) and **Carnegie** (the Endowment's small
+working-group format with a named output) — what they do at scale you can do
+for 8 people in your city. Local
 shapes: a 90-minute working session with state legislators' staff before
 a vote; a workshop with 3 reporters and 3 researchers before a major
 paper drops.
@@ -119,9 +134,26 @@ paper drops.
 
 ## Templates
 
+For a small, output-oriented working session:
+
 - [`templates/convening-invitation.md`](../templates/convening-invitation.md)
   — the invitation email.
 - [`templates/convening-agenda.md`](../templates/convening-agenda.md) —
   a 90-minute session structure.
 - [`templates/project-brief.md`](../templates/project-brief.md) — for
   scoping.
+
+For the large public-debate variant:
+
+- [`templates/debate-emails.md`](../templates/debate-emails.md) — outreach,
+  logistics, reminders, thank-yous, and recap copy.
+- [`templates/debate-run-of-show.md`](../templates/debate-run-of-show.md) —
+  an 83-minute moderator script and timing spine.
+- [`templates/debate-timekeeper-brief.md`](../templates/debate-timekeeper-brief.md)
+  — cue-card rules and the day-of kit.
+- [`templates/debate-voting-setup.md`](../templates/debate-voting-setup.md) —
+  the before/after audience-vote method.
+- [`templates/debate-moderator-research-prompt.md`](../templates/debate-moderator-research-prompt.md)
+  — a neutral research brief prompt.
+- [`templates/debate-budget-and-checklists.md`](../templates/debate-budget-and-checklists.md)
+  — a lean budget and eight-week checklist.

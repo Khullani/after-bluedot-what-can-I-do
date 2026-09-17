@@ -1,7 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
-// 16 archetype files in /archetypes
+// Archetype files in /archetypes
 const archetypes = defineCollection({
   loader: glob({
     pattern: '*.md',

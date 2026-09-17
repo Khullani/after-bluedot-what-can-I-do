@@ -22,7 +22,7 @@ You just finished a BlueDot course (AGI Strategy, Biosecurity, Frontier AI
 Governance, or Technical AI Safety). The momentum is real and your
 calendar is empty. "Stay engaged with the field" is not a project, so most
 people read a few more papers, wait to feel ready, and ship nothing. This repo
-is the menu of concrete next projects I wish someone had handed me: twelve
+is the menu of concrete next projects I wish someone had handed me: seventeen
 archetypes for post-course work, each with honest tradeoffs about who it fits.
 
 The whole method, in five steps:
@@ -49,7 +49,7 @@ You want to do something useful with what you learned, but "stay engaged with
 the field" is not a project, and most of the moves people suggest at the end
 of a course are vague enough that you'll end up doing none of them.
 
-This repo is the menu I wish someone had handed me. It's eleven concrete
+This repo is the menu I wish someone had handed me. It's seventeen concrete
 archetypes for post-course projects, in my voice, with honest tradeoffs about
 which one fits which person.
 
@@ -109,7 +109,7 @@ for case studies:
 - **#4** — [DNA synthesis landscape document](./examples/04-landscape-doc.md) (field-building, published by BlueDot Impact)
 - **#5** — [Crain's Chicago Business op-ed](./examples/05-op-ed.md) (published March 30, 2026)
 - **#6** — [Illinois written testimony](./examples/06-public-comment.md) (filed, co-located with the tracker)
-- **#7** — [AI Safety Chicago](./examples/07-convening.md) (debate series, recurring, co-hosted with BlueDot Impact)
+- **#7** — [AI Safety Chicago](./examples/07-convening.md) (recurring debate series with a full organizer playbook and six templates, co-hosted with BlueDot Impact)
 - **#11** — [Heterotopia AI Substack — "Parrhesia, Praxis, and Poetry"](./examples/11-substack.md) (post-course reflection, published)
 - **#12** — [IL HB5760 — AI Work Transition Commission](./examples/12-bill-drafting.md) (introduced April 30, 2026; sponsor Rep. du Buclet; in committee)
 

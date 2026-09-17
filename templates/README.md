@@ -22,8 +22,24 @@ Copy the one you need, fill it in, throw away the parts that don't fit.
 | 4. Landscape doc | [`landscape-doc-skeleton.md`](./landscape-doc-skeleton.md) |
 | 5. Op-ed | [`op-ed-skeleton.md`](./op-ed-skeleton.md), [`op-ed-pitch.md`](./op-ed-pitch.md) |
 | 6. Public comment | [`public-comment-skeleton.md`](./public-comment-skeleton.md) |
-| 7. Convening | [`convening-invitation.md`](./convening-invitation.md), [`convening-agenda.md`](./convening-agenda.md) |
+| 7. Convening | Small session: [`convening-invitation.md`](./convening-invitation.md), [`convening-agenda.md`](./convening-agenda.md). Public debate: see the toolkit below. |
 | 8. Facilitate cohort | See archetype #2 templates plus BlueDot's own facilitator materials. |
+
+### Public-debate toolkit (archetype #7)
+
+Use these with the [AI Safety Chicago organizer playbook](../examples/07-convening.md):
+
+- [`debate-emails.md`](./debate-emails.md) — sponsor, speaker, venue,
+  reminder, thank-you, recap, and intake copy.
+- [`debate-run-of-show.md`](./debate-run-of-show.md) — moderator timing and
+  cue lines.
+- [`debate-timekeeper-brief.md`](./debate-timekeeper-brief.md) — cue-card
+  system and day-of kit.
+- [`debate-voting-setup.md`](./debate-voting-setup.md) — before/after polling.
+- [`debate-moderator-research-prompt.md`](./debate-moderator-research-prompt.md)
+  — a neutral landscape-research prompt.
+- [`debate-budget-and-checklists.md`](./debate-budget-and-checklists.md) —
+  budget and eight-week countdown.
 
 ## For facilitators handing this off
 

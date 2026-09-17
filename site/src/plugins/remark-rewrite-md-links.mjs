@@ -20,8 +20,9 @@ const SITE_PAGES = {
  *  1. Root-level known pages → their site URL
  *  2. archetypes/xx-name.md → /menu/xx-name
  *  3. templates/name.md     → /templates/name
- *  4. examples/             → /examples/
- *  5. Any other .md path    → GitHub blob URL
+ *  4. examples/name.md      → /examples/name
+ *  5. examples/             → /examples/
+ *  6. Any other .md path    → GitHub blob URL
  */
 export default function remarkRewriteMdLinks() {
   return (tree) => {
@@ -29,32 +30,43 @@ export default function remarkRewriteMdLinks() {
       const url = node.url;
       if (!url || url.startsWith('http') || url.startsWith('#') || url.startsWith('/')) return;
 
-      const norm = url.replace(/^\.\//, '');
+      // Content files live at different depths in the repo. Strip any leading
+      // ./ or ../ segments before matching them to a site collection.
+      const norm = url.replace(/^(?:\.\.?\/)+/, '');
+      const hashIndex = norm.indexOf('#');
+      const path = hashIndex >= 0 ? norm.slice(0, hashIndex) : norm;
+      const hash = hashIndex >= 0 ? norm.slice(hashIndex) : '';
 
-      if (SITE_PAGES[norm]) {
-        node.url = SITE_PAGES[norm];
+      if (SITE_PAGES[path]) {
+        node.url = `${SITE_PAGES[path]}${hash}`;
         return;
       }
 
-      if (norm.startsWith('archetypes/') && norm.endsWith('.md')) {
-        const slug = norm.replace(/^archetypes\//, '').replace(/\.md$/, '');
-        node.url = `${BASE}/menu/${slug}`;
+      if (path.startsWith('archetypes/') && path.endsWith('.md')) {
+        const slug = path.replace(/^archetypes\//, '').replace(/\.md$/, '');
+        node.url = `${BASE}/menu/${slug}${hash}`;
         return;
       }
 
-      if (norm.startsWith('templates/') && norm.endsWith('.md')) {
-        const slug = norm.replace(/^templates\//, '').replace(/\.md$/, '');
-        node.url = `${BASE}/templates/${slug}`;
+      if (path.startsWith('templates/') && path.endsWith('.md')) {
+        const slug = path.replace(/^templates\//, '').replace(/\.md$/, '');
+        node.url = `${BASE}/templates/${slug}${hash}`;
         return;
       }
 
-      if (norm === 'examples' || norm.startsWith('examples/')) {
-        node.url = `${BASE}/examples/`;
+      if (path.startsWith('examples/') && path.endsWith('.md')) {
+        const slug = path.replace(/^examples\//, '').replace(/\.md$/, '');
+        node.url = `${BASE}/examples/${slug}${hash}`;
         return;
       }
 
-      if (norm.endsWith('.md')) {
-        node.url = `${GITHUB_BLOB}/${norm}`;
+      if (path === 'examples' || path === 'examples/') {
+        node.url = `${BASE}/examples/${hash}`;
+        return;
+      }
+
+      if (path.endsWith('.md')) {
+        node.url = `${GITHUB_BLOB}/${path}${hash}`;
       }
     });
   };

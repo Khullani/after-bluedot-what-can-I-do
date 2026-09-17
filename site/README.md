@@ -43,7 +43,7 @@ site/
 │   │   ├── index.astro            Home — hook, two-doors, method, menu teaser
 │   │   ├── method.astro           Renders PLAYBOOK.md
 │   │   ├── menu/
-│   │   │   ├── index.astro        16-archetype grid
+│   │   │   ├── index.astro        Archetype grid
 │   │   │   └── [slug].astro       Per-archetype detail page
 │   │   ├── examples/
 │   │   │   ├── index.astro        6 case studies

@@ -7,7 +7,7 @@ without re-reading the spec.
 PR3 shipped Phase 0–1 from the build spec:
 - Astro project scaffold (`/site`)
 - Content collections for archetypes, examples, templates, pages
-- Front matter on all 16 archetype files + 6 example files
+- Front matter on every archetype file + 6 example files
 - All 9 routes from §3 of the spec, rendering markdown with basic styling
 - GitHub Action that builds + deploys to GitHub Pages on push to `main`
 

@@ -15,7 +15,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   <p class="lede">
     You finished a BlueDot course. The momentum is real and the calendar is
     empty. <em>"Stay engaged with the field"</em> is not a project. This is a
-    menu of sixteen concrete ones — each with honest tradeoffs about who it
+    menu of {archetypes.length} concrete ones — each with honest tradeoffs about who it
     fits, what v1 looks like, and how to start this week.
   </p>
 
@@ -51,10 +51,10 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
   <h2>The menu</h2>
   <p class="lede" style="font-size: 1rem;">
-    Sixteen archetypes, each with a <code>Best fit for:</code> tag so alumni
+    {archetypes.length} archetypes, each with a <code>Best fit for:</code> tag so alumni
     from AGI Strategy, Biosecurity, Frontier AI Governance, and Technical AI
     Safety can spot what lands for their course. Six show their first cards
-    below — <a href={`${base}/menu`}>see all sixteen</a>.
+    below — <a href={`${base}/menu`}>see all {archetypes.length}</a>.
   </p>
 
   <div class="archetype-grid">
@@ -62,7 +62,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   </div>
 
   <p style="margin-top: 2rem;">
-    <a href={`${base}/menu`} class="cta">Browse all 16 archetypes →</a>
+    <a href={`${base}/menu`} class="cta">Browse all {archetypes.length} archetypes →</a>
   </p>
 
   <h2>Build while you wait</h2>
