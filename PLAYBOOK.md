@@ -181,6 +181,12 @@ compound for years.
 **Bad if** you're hoping to "build community" without a specific outcome
 the convening produces. Without an output, you've thrown a party.
 
+Large public event instead? The [AI Safety Chicago example](./examples/07-convening.md)
+is the proven debate variant: an eight-week organizer playbook, an
+Oxford-style run of show, a before/after audience vote, and six templates.
+Use it when audience movement and community-building are the intended output;
+keep the smaller format when you need a working artifact from named people.
+
 ### 8. Facilitate the next cohort → [details](./archetypes/08-facilitate-next-cohort.md)
 
 *Best fit for: ALL.*
